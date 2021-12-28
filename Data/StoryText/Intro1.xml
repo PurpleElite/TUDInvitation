@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Chapter ID="-1">
+    <Title />
+  </Chapter>
+  <Group>
+    <GroupName>group</GroupName>
+    <Episode>
+      <EpisodeName>Episode</EpisodeName>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="0" Model="">
+          <Teller>???</Teller>
+          <Title />
+          <Content>....</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="1" Model="">
+          <Teller>???</Teller>
+          <Title />
+          <Content>...She should be here by now.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="2" Model="">
+          <Teller>???</Teller>
+          <Title />
+          <Content>Just relax Linus! You've been pacing for an hour now. She'll be back, I mean this is Jo we're talking about. She could take on a whole army if she wanted to.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="3" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Escapee</Title>
+          <Content>I'm worried about us, Shei! She's our lifeline in this city, if something happens to her or they find us while she's away...</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="4" Model="Sheire">
+          <Teller>Sheire</Teller>
+          <Title>Escapee</Title>
+          <Content>Then we'll deal with it when it happens won't we? We've made it this far, and you're getting closer to figuring out how to use that weird sword-</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="5" Model="">
+          <Teller />
+          <Title />
+          <Content>&lt;knock knock knock&gt;</Content>
+        </Dialog>
+        <Dialog ID="6" Model="Sheire">
+          <Teller>Sheire</Teller>
+          <Title>Escapee</Title>
+          <Content>!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="7" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Escapee</Title>
+          <Content>...that wasn't the knock we agreed on...</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="8" Model="Sheire">
+          <Teller>Sheire</Teller>
+          <Title>Escapee</Title>
+          <Content>...maybe she forgot?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="9" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Escapee</Title>
+          <Content>That's not a risk I'm willing to take. Ugh I can't believe we chose to hide out in an apartment with no back exit! We're going to have to be ready to fight past them with the element of surprise.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="10" Model="Sheire">
+          <Teller>Sheire</Teller>
+          <Title>Escapee</Title>
+          <Content>Why don't we check the peephole?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="11" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Refugee</Title>
+          <Content>No they'll be able to tell someone's looking through it and then kick the door down while you're right in front of it. Come on, I'll take the side and you get ready to spear anyone who isn't Jo.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="Sheire">
+          <Teller>Sheire</Teller>
+          <Title>Refugee</Title>
+          <Content>...Okay, I'm ready. On three?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="13" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Escapee</Title>
+          <Content>Yeah. One.. Two...</Content>
+        </Dialog>
+        <Dialog ID="14" Model="Linus">
+          <Teller>All</Teller>
+          <Title />
+          <Content>AAAAAAHHH!!!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Hideout</PlaceName>
+        <Dialog ID="15" Model="Johanna">
+          <Teller>Johanna</Teller>
+          <Title>Grade 1 Fixer</Title>
+          <Content>Haha! Woah there! Glad to see you're both on your toes!</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+</ScenarioRoot>

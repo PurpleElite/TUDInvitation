@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <effectTextList>
+    <BattleEffectText ID="BindBonds">
+      <Name>The Bonds That Bind Us</Name>
+      <Desc>Activates related passive ability and can be spent to enhance unique combat page. One stack is lost when staggered.</Desc>
+    </BattleEffectText>
+	<BattleEffectText ID="UnstableEntropy">
+      <Name>Unstable Entropy</Name>
+      <Desc>Gain Haste equal to stacks of Erosion. If the character starts a Scene with more than 3 Erosion inflict 1 Erosion on all other allies.</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

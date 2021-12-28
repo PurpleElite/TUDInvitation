@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PassiveXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Passive ID="1">
+    <Rarity>Unique</Rarity>
+    <CanGivePassive>false</CanGivePassive>
+    <InnerType>-1</InnerType>
+    <Cost>9</Cost>
+    <Script>radiant_perseverance</Script>
+    <Name>Radiant Perseverance</Name>
+    <Desc>Immune to damage until staggered and can still act while staggered. Will not die until the end of the Scene after taking fatal damage. Gain 3 strength and endurance while staggered and even more when at death's door.</Desc>
+  </Passive>
+  <Passive ID="2">
+    <Rarity>Rare</Rarity>
+    <InnerType>-1</InnerType>
+    <Cost>3</Cost>
+    <Script>second_wind</Script>
+    <Name>Second Wind</Name>
+    <Desc>Restore all light when staggered</Desc>
+  </Passive>
+  <Passive ID="3">
+    <Rarity>Unique</Rarity>
+    <InnerType>-1</InnerType>
+    <Cost>5</Cost>
+    <Script>bonds_that_bind_us_defend</Script>
+    <Name>The Bonds that Protect Us</Name>
+    <Desc>At the start of the act gain one stack of The Bonds that Bind Us and add a unique combat page to hand. If this character has at least 1 stack of The Bonds that Bind Us at the start of the Scene grant 2 Protection to self and one other ally.</Desc>
+  </Passive>
+  <Passive ID="4">
+    <Rarity>Unique</Rarity>
+    <InnerType>-1</InnerType>
+    <Cost>5</Cost>
+    <Script>bonds_that_bind_us_restore</Script>
+    <Name>The Bonds that Restore Us</Name>
+    <Desc>At the start of the act gain one stack of The Bonds that Bind Us and add a unique combat page to hand. If this character has at least 1 stack of The Bonds that Bind Us at the start of the Scene restore 10 HP and Stagger Resist for two allies.</Desc>
+  </Passive>
+  <Passive ID="5">
+    <Rarity>Unique</Rarity>
+    <InnerType>-1</InnerType>
+    <Cost>5</Cost>
+    <Script>bonds_that_bind_us_drive</Script>
+    <Name>The Bonds that Drive Us</Name>
+    <Desc>At the start of the act gain one stack of The Bonds that Bind Us and add a unique combat page to hand. If this character has at least 1 stack of The Bonds that Bind Us at the start of the Scene grant 1 Haste to self and one other ally.</Desc>
+  </Passive>
+  <Passive ID="6">
+    <Rarity>Unique</Rarity>
+    <CanGivePassive>false</CanGivePassive>
+    <InnerType>-1</InnerType>
+    <Cost>6</Cost>
+    <Script>together_to_the_end</Script>
+    <Name>Together to the End</Name>
+    <Desc>While this character is alive allies are knocked out instead of dying. Gain a unique card that revives an ally and weakens the user for the Scene at the cost of a stack of The Bonds that Bind Us.</Desc>
+  </Passive>
+  <Passive ID="7">
+    <Rarity>Rare</Rarity>
+    <InnerType>-1</InnerType>
+    <Cost>4</Cost>
+    <Script>find_the_opening</Script>
+    <Name>Find the Opening</Name>
+    <Desc>Twice per Scene, after suffering a one-sided attack, gain 1 Strength next Scene.</Desc>
+  </Passive>
+  <Passive ID="8">
+    <Rarity>Rare</Rarity>
+    <InnerType>-1</InnerType>
+    <Cost>4</Cost>
+    <Script>the_nymane_key</Script>
+    <Name>The Nymane Key</Name>
+    <Desc>50% chance to inflict 1 Erosion on a successful attack</Desc>
+  </Passive>
+  <Passive ID="9">
+	<Rarity>Rare</Rarity>
+	<InnerType>-1</InnerType>
+    <Cost>4</Cost>
+    <Script>keep_them_busy</Script>
+    <Name>Keep Them Busy</Name>
+    <Desc>Every three successful clashes with defensive dice in a Scene inflict the target with 1 Bind and 1 Feeble</Desc>
+  </Passive>
+  <Passive ID="10">
+	<Rarity>Rare</Rarity>
+	<InnerType>-1</InnerType>
+    <Cost>4</Cost>
+    <Script>command_the_wind</Script>
+    <Name>Command the Wind</Name>
+    <Desc>When this character would receive stagger resist from evading only gain half as much but also give that amount to two other allies</Desc>
+  </Passive>
+  <Passive ID="11">
+	<Rarity>Uncommon</Rarity>
+	<InnerType>-1</InnerType>
+    <Cost>3</Cost>
+    <Script>sting_like_a_bee</Script>
+    <Name>Sting Like a Bee</Name>
+    <Desc>Upon winning a clash with an Evade die where the natural roll is Max, add a Pierce die (Roll: 3-4) to the dice queue</Desc>
+  </Passive>
+  <Passive ID="12">
+	<Rarity>Unique</Rarity>
+	<InnerType>-1</InnerType>
+    <Cost>0</Cost>
+    <Script>fueled_by_light</Script>
+    <Name>Fueled by the Light</Name>
+    <Desc>At Emotion Level 3 or above, restore 2 Light and draw 1 page at the start of the Scene.</Desc>
+  </Passive>
+  <Passive ID="13">
+	<Rarity>Unique</Rarity>
+	<InnerType>-1</InnerType>
+    <Cost>5</Cost>
+    <Script>twelve_fixers_evade</Script>
+    <Name>The Two Fugitives</Name>
+    <Desc>Boost the *minimum* roll value of Evade dice by +2. At Emotion Level 3 or higher, also boost the *maximum* roll value of Evade dice by +1.</Desc>
+  </Passive>
+  <Passive ID="14">
+	<Rarity>Unique</Rarity>
+	<InnerType>-1</InnerType>
+    <Cost>5</Cost>
+    <Script>deflect_assaultJo</Script>
+    <Name>Deflect Assault</Name>
+    <Desc>Gain a Counter die (Block, 3-7) at combat start.</Desc>
+  </Passive>
+</PassiveXmlRoot>
