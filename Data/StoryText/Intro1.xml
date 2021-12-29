@@ -14,41 +14,26 @@
           <Title />
           <Content>....</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
         <Dialog ID="1" Model="">
           <Teller>???</Teller>
           <Title />
           <Content>...She should be here by now.</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
         <Dialog ID="2" Model="">
-          <Teller>???</Teller>
+          <Teller>????</Teller>
           <Title />
-          <Content>Just relax Linus! You've been pacing for an hour now. She'll be back, I mean this is Jo we're talking about. She could take on a whole army if she wanted to.</Content>
+          <Content>Just relax, Linus! You've been pacing for an hour now. She'll be back soon enough; I mean, this is Jo we're talking about. She could take on a whole army if she wanted to.</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
         <Dialog ID="3" Model="Linus">
           <Teller>Linus</Teller>
-          <Title>Escapee</Title>
+          <Title>Fugitive</Title>
           <Content>I'm worried about us, Shei! She's our lifeline in this city, if something happens to her or they find us while she's away...</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
         <Dialog ID="4" Model="Sheire">
           <Teller>Sheire</Teller>
-          <Title>Escapee</Title>
+          <Title>Fugitive</Title>
           <Content>Then we'll deal with it when it happens won't we? We've made it this far, and you're getting closer to figuring out how to use that weird sword-</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
         <Dialog ID="5" Model="">
           <Teller />
           <Title />
@@ -56,75 +41,104 @@
         </Dialog>
         <Dialog ID="6" Model="Sheire">
           <Teller>Sheire</Teller>
-          <Title>Escapee</Title>
+          <Title>Fugitive</Title>
           <Content>!</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
         <Dialog ID="7" Model="Linus">
           <Teller>Linus</Teller>
-          <Title>Escapee</Title>
+          <Title>Fugitive</Title>
           <Content>...that wasn't the knock we agreed on...</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
         <Dialog ID="8" Model="Sheire">
           <Teller>Sheire</Teller>
-          <Title>Escapee</Title>
+          <Title>Fugitive</Title>
           <Content>...maybe she forgot?</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
         <Dialog ID="9" Model="Linus">
           <Teller>Linus</Teller>
-          <Title>Escapee</Title>
-          <Content>That's not a risk I'm willing to take. Ugh I can't believe we chose to hide out in an apartment with no back exit! We're going to have to be ready to fight past them with the element of surprise.</Content>
+          <Title>Fugitive</Title>
+          <Content>That's not a risk I'm willing to take. Ugh I can't believe we chose to hide out in an apartment with no back exits! We're going to have to fight past them.</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
         <Dialog ID="10" Model="Sheire">
           <Teller>Sheire</Teller>
-          <Title>Escapee</Title>
-          <Content>Why don't we check the peephole?</Content>
+          <Title>Fugitive</Title>
+          <Content>Why don't we check the peephole first?</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
         <Dialog ID="11" Model="Linus">
           <Teller>Linus</Teller>
-          <Title>Refugee</Title>
-          <Content>No they'll be able to tell someone's looking through it and then kick the door down while you're right in front of it. Come on, I'll take the side and you get ready to spear anyone who isn't Jo.</Content>
+          <Title>Fugitive</Title>
+          <Content>No, they'll be able to tell someone's looking through it and then kick the door into you. Here's the plan: I'll throw the door open and you spear anyone who isn't Jo.</Content>
         </Dialog>
         <Dialog ID="12" Model="Sheire">
           <Teller>Sheire</Teller>
-          <Title>Refugee</Title>
+          <Title>Fugitive</Title>
           <Content>...Okay, I'm ready. On three?</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
         <Dialog ID="13" Model="Linus">
           <Teller>Linus</Teller>
-          <Title>Escapee</Title>
+          <Title>Fugitive</Title>
           <Content>Yeah. One.. Two...</Content>
         </Dialog>
-        <Dialog ID="14" Model="Linus">
+		<Dialog ID="14" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Fugitive</Title>
+          <Content>THREE!</Content>
+        </Dialog>
+        <Dialog ID="15" Model="Linus">
           <Teller>All</Teller>
           <Title />
           <Content>AAAAAAHHH!!!</Content>
         </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Hideout</PlaceName>
-        <Dialog ID="15" Model="Johanna">
+        <Dialog ID="16" Model="Johanna">
           <Teller>Johanna</Teller>
-          <Title>Grade 1 Fixer</Title>
-          <Content>Haha! Woah there! Glad to see you're both on your toes!</Content>
+          <Title>Ex-Fixer</Title>
+          <Content><!--laughing-->Haha! Woah there! Glad to see you're both on your toes!</Content>
         </Dialog>
+		<Dialog ID="17" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Fugitive</Title>
+          <Content><!--annoyed-->Jo....</Content>
+        </Dialog>
+		<Dialog ID="18" Model="Sheire">
+          <Teller>Sheire</Teller>
+          <Title>Fugitive</Title>
+          <Content><!--concerned-->That wasn't the password we agreed on.</Content>
+        </Dialog>
+		<Dialog ID="19" Model="Johanna">
+          <Teller>Johanna</Teller>
+          <Title>Ex-Fixer</Title>
+          <Content>Hm? Password? Ohhh yes yes, sorry it slipped my mind. I was very focused on trying not to be followed and such.</Content>
+        </Dialog>
+		<Dialog ID="20" Model="Johanna">
+          <Teller>Johanna</Teller>
+          <Title>Ex-Fixer</Title>
+          <Content><!--smile-->Perhaps you'll forgive me in exchange for... pizza??</Content>
+        </Dialog>
+		<Dialog ID="21" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Fugitive</Title>
+          <Content><!--suspicious-->...What toppings?</Content>
+        </Dialog>
+		<Dialog ID="22" Model="Johanna">
+          <Teller>Johanna</Teller>
+          <Title>Ex-Fixer</Title>
+          <Content><!--laughing-->Bacon, sausage, and pepperoni of course! Just because I forgot the secret code doesn't mean I don't remember you're an insatiable carnivore.</Content>
+        </Dialog>
+		<Dialog ID="23" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Fugitive</Title>
+          <Content><!--relieved-->Hm.. Forgiven.</Content>
+        </Dialog>
+		<Dialog ID="24" Model="Sheire">
+          <Teller>Sheire</Teller>
+          <Title>Fugitive</Title>
+          <Content><!--amused-->Mhm, you're off the hook, this time.</Content>
+        </Dialog>
+		<!--swap to CG of pizza eating and examining the Nymane Key-->
+		<!--dialogue about the Key and Linus slowly figuring out how to use it, the people he stole it from spending big money to get it back "those were grade 2 fixers last time"-->
+		<!--pivot to Sheire saying she got an invitation to the library-->
+		<!--discussion about how it's too dangerous-->
+		<!--suddenly door gets blown in "Well I suppose that makes the decision for us, off to the library!"-->
       </Place>
     </Episode>
   </Group>

@@ -24,10 +24,10 @@
       <AddedStartDraw>1</AddedStartDraw>
       <Passive Pid="@origin">10004</Passive>
 	  <Passive>12</Passive>
-      <Passive>1</Passive>
-      <Passive>3</Passive>
-      <Passive>2</Passive>
 	  <Passive>6</Passive>
+      <Passive>3</Passive>
+	  <Passive>1</Passive>
+      <Passive>2</Passive>
 	  <Passive>14</Passive>
       <Passive Pid="@origin">233001</Passive>
       <Passive Pid="@origin">250026</Passive>
