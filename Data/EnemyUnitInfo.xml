@@ -33,7 +33,7 @@
     <Exp>0</Exp>
     <DropBonus>0</DropBonus>
     <DropTable Level="0">
-      <DropItem Prob="1">-1</DropItem>
+      <DropItem Prob="1">2</DropItem>
     </DropTable>
     <AiScript />
   </Enemy>
@@ -45,7 +45,7 @@
     <MaxHeight>170</MaxHeight>
     <Unknown>false</Unknown>
     <Gender>F</Gender>
-    <Retreat>true</Retreat>
+    <Retreat>false</Retreat>
     <BookId>3</BookId>
     <BodyId>0</BodyId>
     <Exp>0</Exp>
