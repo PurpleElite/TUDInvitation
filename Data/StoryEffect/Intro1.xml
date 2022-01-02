@@ -131,6 +131,172 @@
     <EffectSound>ch1_ZipperOff</EffectSound>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
+  <Dialogue ID="25">
+    <Bg Src="Intro1.png" />
+    <Filter Src="OffAll" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Johanna" Face="none" Pos="C" Emotion="NONE" Telling="false">
+        <Deactive Effect="NORMAL" Ratio="0" />
+      </Character>
+      <Character Name="Linus" Face="none" Pos="C" Emotion="NONE" Telling="false">
+        <Deactive Effect="NORMAL" Ratio="0" />
+      </Character>
+      <Character Name="Sheire" Face="none" Pos="C" Emotion="NONE" Telling="false">
+        <Deactive Effect="NORMAL" Ratio="0" />
+      </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="46">
+    <Bg Src="Intro2.png" />
+    <Filter Src="Continue" />
+    <Bgm Src="ch1_Calm1" Effect="FadeIn" PrevBgm="FadeOut" />
+    <CharacterList />
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="61">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="ch1_Nervous" Effect="FadeIn" PrevBgm="FadeOut" />
+    <CharacterList />
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="68">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>Story_Sign</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="69">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>Ch6_Thumb_YanSwordOn</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="70">
+    <Bg Src="Intro3.png" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>CH5_DoorCrash</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="71">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>Ch6_Thumb_GunAim</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="72">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>Story_GunFire</EffectSound>
+    <EffectSound>Story_GunGuard</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="73">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>Story_Sign</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="74">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>Ch6_MyoGunFire1</EffectSound>
+    <EffectSound>Story_GunGuard</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="75">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>Ch6_Thumb_YanBattle</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="77">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>Story_Sign</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="78">
+    <Bg Src="ch1_library_inside" />
+    <Filter Src="Continue" />
+    <Bgm Src="Lobby" Effect="FadeIn" PrevBgm="FadeOut" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="normal" Body="nomal" Pos="R2" Emotion="NONE" Telling="false">
+        <Active Effect="NORMAL" Ratio="0" />
+      </Character>
+      <Character Name="롤랑" Face="nomal" Body="nomal" Pos="L2" Emotion="NONE" Telling="false">
+        <Active Effect="NORMAL" Ratio="0" />
+      </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="87">
+    <Bg Src="ch1_library_entry2" />
+    <Filter Src="Fadein" />
+    <Bgm Src="Bgm3" Effect="FadeIn" PrevBgm="FadeOut" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="normal" Body="nomal" Pos="R2" Emotion="NONE" Telling="false">
+        <Deactive Effect="NORMAL" Ratio="0" />
+      </Character>
+      <Character Name="롤랑" Face="nomal" Body="nomal" Pos="L2" Emotion="NONE" Telling="false">
+        <Deactive Effect="NORMAL" Ratio="0" />
+      </Character>
+      <Character Name="Johanna" Face="none" Pos="L1" Emotion="NONE" Telling="false">
+        <Active Effect="NORMAL" Ratio="0" />
+      </Character>
+      <Character Name="Linus" Face="none" Pos="L3" Emotion="NONE" Telling="false">
+        <Active Effect="NORMAL" Ratio="0" />
+      </Character>
+      <Character Name="Sheire" Face="none" Pos="L2" Emotion="NONE" Telling="false">
+        <Active Effect="NORMAL" Ratio="0" />
+      </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="96">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="normal" Body="nomal" Pos="R2" Emotion="NONE" Telling="false">
+        <Active Effect="NORMAL" Ratio="0" />
+      </Character>
+    </CharacterList>
+	<EffectSound>ch1_FingerSnap</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="109">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="normal" Body="nomal" Pos="R2" Emotion="NONE" Telling="false">
+        <Deactive Effect="NORMAL" Ratio="0" />
+      </Character>
+    </CharacterList>
+	<EffectSound>ch1_FingerSnap</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
   <CG Src="None" />
   <storyBranch>None</storyBranch>
 </SceneEffect>
