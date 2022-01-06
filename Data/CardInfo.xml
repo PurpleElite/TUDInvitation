@@ -2,8 +2,8 @@
 <DiceCardXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.1</Version>
   <Card ID="1">
-    <Name>Determination</Name>
-    <Artwork>UFB.png</Artwork>
+    <Name>Family</Name>
+    <Artwork>hangingout.png</Artwork>
     <Rarity>Common</Rarity>
     <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
     <Script>energy2</Script>
@@ -84,7 +84,7 @@
     <BehaviourList>
       <Behaviour Min="3" Dice="8" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="" Desc="" />
       <Behaviour Min="4" Dice="7" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="WarpCrew_Z" Script="" ActionScript="" Desc="" />
-	  <Behaviour Min="3" Dice="5" Type="Def" Detail="Guard" Motion="Z" MotionDefault="N" EffectRes="WarpCrew_G" Script="" ActionScript="" Desc="" />
+	  <Behaviour Min="5" Dice="8" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="WarpCrew_G" Script="" ActionScript="" Desc="" />
 	  <Behaviour Min="1" Dice="3" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="borrowed_time_recycle" ActionScript="borrowed_time" Desc="" />
     </BehaviourList>
     <Chapter>7</Chapter>
@@ -126,7 +126,7 @@
   </Card>
   <Card ID="9">
     <Name>The Bonds That Protect Us</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>BondsJo.png</Artwork>
     <Rarity>Rare</Rarity>
     <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
     <Script>bonds_protection</Script>
@@ -142,7 +142,7 @@
   </Card>
   <Card ID="10">
     <Name>The Bonds That Restore Us</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>BondsSheire.png</Artwork>
     <Rarity>Rare</Rarity>
     <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
     <Script>bonds_restore</Script>
@@ -157,7 +157,7 @@
   </Card>
   <Card ID="11">
     <Name>The Bonds That Drive Us</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>BondsLinus.png</Artwork>
     <Rarity>Rare</Rarity>
     <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
     <Script>bonds_drive</Script>
@@ -171,7 +171,7 @@
   </Card>
   <Card ID="12">
     <Name>The Bonds That Drive Us</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>BondsLinus.png</Artwork>
     <Rarity>Rare</Rarity>
     <Spec Range="FarAreaEach" Cost="1" Affection="One" EmotionLimit="0" />
     <Script></Script>
@@ -211,7 +211,7 @@
     <PriorityScript />
   </Card>
   <Card ID="15">
-    <Name>Fastforward</Name>
+    <Name>Faster than Time</Name>
     <Artwork>PCT.png</Artwork>
     <Rarity>Rare</Rarity>
     <Spec Range="Near" Cost="3" Affection="One" EmotionLimit="0" />
@@ -258,7 +258,7 @@
   </Card>
   <Card ID="18">
     <Name>The Will to Press Onward</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>forward.png</Artwork>
     <Rarity>Unique</Rarity>
     <Spec Range="Near" Cost="3" Affection="One" EmotionLimit="0" />
     <Script>willpower</Script>
