@@ -148,6 +148,14 @@
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
+  <Dialogue ID="45">
+    <Bg Src="None" />
+    <Filter Src="OffAll" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>CH7_AngelaWalk</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
   <Dialogue ID="46">
     <Bg Src="Intro2.png" />
     <Filter Src="Continue" />
@@ -244,9 +252,81 @@
       <Character Name="앤젤라" Face="normal" Body="nomal" Pos="R2" Emotion="NONE" Telling="false">
         <Active Effect="NORMAL" Ratio="0" />
       </Character>
-      <Character Name="롤랑" Face="nomal" Body="nomal" Pos="L2" Emotion="NONE" Telling="false">
+      <Character Name="롤랑" Face="oh" Body="nomal" Pos="L2" Emotion="NONE" Telling="false">
         <Active Effect="NORMAL" Ratio="0" />
       </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="79">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="롤랑" Face="worry" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="80">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="롤랑" Face="hogisim" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="81">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="hogisim" Body="nomal" Pos="R2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="82">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="롤랑" Face="sigh" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="83">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="annoy" Body="nomal" Pos="R2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="84">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="롤랑" Face="hogisim" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="85">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="smile" Body="nomal" Pos="R2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="86">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="롤랑" Face="sigh" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
@@ -282,7 +362,27 @@
         <Active Effect="NORMAL" Ratio="0" />
       </Character>
     </CharacterList>
-	<EffectSound>ch1_FingerSnap</EffectSound>
+    <EffectSound>ch1_FingerSnap</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="104">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="angry" Body="nomal" Pos="R2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <EffectSound>ch1_FingerSnap</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="108">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="smile" Body="nomal" Pos="R2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <EffectSound>ch1_FingerSnap</EffectSound>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
   <Dialogue ID="109">
@@ -294,7 +394,7 @@
         <Deactive Effect="NORMAL" Ratio="0" />
       </Character>
     </CharacterList>
-	<EffectSound>ch1_FingerSnap</EffectSound>
+    <EffectSound>ch1_FingerSnap</EffectSound>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
   <CG Src="None" />

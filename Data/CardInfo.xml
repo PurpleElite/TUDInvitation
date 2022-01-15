@@ -19,7 +19,7 @@
   </Card>
   <Card ID="2">
     <Name>Shoulder bash</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>ShoulderBash.png</Artwork>
     <Rarity>Uncommon</Rarity>
     <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
     <Script>drawCard</Script>
@@ -77,7 +77,7 @@
   </Card>
   <Card ID="6">
     <Name>Borrowed Time</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>NymaneKey.png</Artwork>
     <Rarity>Uncommon</Rarity>
     <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
     <Script>borrowed_time_bind</Script>
@@ -111,7 +111,7 @@
   </Card>
   <Card ID="8">
     <Name>Off With Their Heads</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>Execute.png</Artwork>
     <Rarity>Unique</Rarity>
     <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
     <Script>extra_clash_dice</Script>
@@ -185,7 +185,7 @@
   </Card>
   <Card ID="13">
     <Name>Together to the End</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>toTheEnd.png</Artwork>
     <Rarity>Rare</Rarity>
     <Spec Range="Near" Cost="2" Affection="Team" EmotionLimit="0" />
     <Script>together_to_the_end</Script>
@@ -196,7 +196,7 @@
   </Card>
   <Card ID="14">
     <Name>Accelerated Entropy</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>Erode.png</Artwork>
     <Rarity>Unique</Rarity>
     <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
     <Script></Script>
