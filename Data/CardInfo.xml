@@ -35,8 +35,8 @@
     <Name>Parry! Counter! Thrust!</Name>
     <Artwork>PCT.png</Artwork>
     <Rarity>Rare</Rarity>
-    <Spec Range="Near" Cost="3" Affection="One" EmotionLimit="0" />
-    <Script>drawCard</Script>
+    <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
+    <Script>force_aggro</Script>
     <BehaviourList>
       <Behaviour Min="3" Dice="6" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch3_G" Script="lovetownNextPower" ActionScript="" Desc="" />
       <Behaviour Min="4" Dice="6" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Molar_Skill_Z" Script="damage5atk" ActionScript="" Desc="" />
@@ -212,7 +212,7 @@
   </Card>
   <Card ID="15">
     <Name>Faster than Time</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>Fast.png</Artwork>
     <Rarity>Rare</Rarity>
     <Spec Range="Near" Cost="3" Affection="One" EmotionLimit="0" />
     <Script>fastforward</Script>
@@ -227,23 +227,9 @@
     <Priority>0</Priority>
     <PriorityScript />
   </Card>
-  <Card ID="16">
-    <Name>Keep Them Distracted</Name>
-    <Artwork>PCT.png</Artwork>
-    <Rarity>Rare</Rarity>
-    <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
-    <Script>keep_them_distracted</Script>
-    <ScriptDesc />
-	<BehaviourList>
-	  <Behaviour Min="7" Dice="10" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Bayyard_Z" Script="" ActionScript="" Desc="" />
-    </BehaviourList>
-    <Chapter>7</Chapter>
-    <Priority>0</Priority>
-    <PriorityScript />
-  </Card>
   <Card ID="17"> <!--for the player version, make it force a clash with the target-->
     <Name>Eyes on me!</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>Distraction.png</Artwork>
     <Rarity>Rare</Rarity>
     <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
     <Script>eyes_on_me</Script>
@@ -274,7 +260,7 @@
   </Card>
   <Card ID="19">
     <Name>Harrier's Flight</Name>
-    <Artwork>PCT.png</Artwork>
+    <Artwork>Flight.png</Artwork>
     <Rarity>Uncommon</Rarity>
     <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
     <Script></Script>
