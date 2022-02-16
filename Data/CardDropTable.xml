@@ -2,17 +2,23 @@
 <CardDropTableXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.1</Version>
   <DropTable ID="1">
-    <Card>2</Card>
-    <Card>3</Card>
     <Card>1</Card>
+    <Card>18</Card>
+    <Card>3</Card>
     <Card>4</Card>
-    <Card>5</Card>
     <Card>8</Card>
   </DropTable>
   <DropTable ID="2">
-	<Card>14</Card>
-    <Card>15</Card>
-    <Card>1</Card>
 	<Card>6</Card>
+    <Card>14</Card>
+    <Card>1</Card>
+    <Card>15</Card>
+	<Card>18</Card>
+  </DropTable>
+  <DropTable ID="3">
+	<Card>19</Card>
+    <Card>18</Card>
+    <Card>17</Card>
+    <Card>1</Card>
   </DropTable>
 </CardDropTableXmlRoot>
