@@ -22,17 +22,17 @@
         <Dialog ID="2" Model="">
           <Teller>????</Teller>
           <Title />
-          <Content>Just relax, Linus! You've been pacing for an hour now. She'll be back soon enough; I mean, this is Jo we're talking about. She could take on a whole army if she wanted to.</Content>
+          <Content>Linus would you please stop pacing? This is Jo we're talking about, she'll be back.</Content>
         </Dialog>
         <Dialog ID="3" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>I'm worried about us, Shei! She's our lifeline in this city. If something happens to her or they find us while she's away...</Content>
+          <Content>And what if they find us while she's away? She's our lifeline in this city, without her protection we're good as dead.</Content>
         </Dialog>
         <Dialog ID="4" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>Then we'll deal with it when it happens won't we? We've made it this far, and you're getting closer to figuring out how to use that weird sword-</Content>
+          <Content>A little optomism wouldn't kill you, you know? We've made it this far, and you're getting a hang of using that weird sword of yours right?</Content>
         </Dialog>
         <Dialog ID="5" Model="">
           <Teller />
@@ -57,17 +57,17 @@
         <Dialog ID="9" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>That's not a risk I'm willing to take. Ugh, I can't believe we chose to hide out in an apartment with no back exits! We're going to have to fight past them.</Content>
+          <Content>That's not a risk I'm willing to take. Ugh, I knew this apartment was a terrible hiding place! We're going to have to fight past them.</Content>
         </Dialog>
         <Dialog ID="10" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>Why don't we check the peephole first?</Content>
+          <Content>Um, why don't we check the peephole first?</Content>
         </Dialog>
         <Dialog ID="11" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>No, they'll be able to tell someone's looking through it and then kick the door into us. Here's the plan: I'll throw it open and you spear anyone who isn't Jo.</Content>
+          <Content>No, they'll be able to tell someone's looking through it. Here's the plan: I'll throw the door open and we'll rush them. Hopefully they won't be expecting that.</Content>
         </Dialog>
         <Dialog ID="12" Model="Sheire">
           <Teller>Sheire</Teller>
@@ -102,17 +102,17 @@
         <Dialog ID="18" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>That wasn't the password we agreed on.</Content>
+          <Content>That wasn't the password we came up with.</Content>
         </Dialog>
         <Dialog ID="19" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Hm? Password? Ohhh yes yes, sorry it slipped my mind. I was very focused preoccupied with losing my tail.</Content>
+          <Content>Hm? Password? Ohhh yes yes, sorry it slipped my mind. I was very preoccupied with losing my tail. You wouldn't believe how big your bounties have gotten.</Content>
         </Dialog>
         <Dialog ID="20" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Perhaps you'll forgive me in exchange for... pizza??</Content>
+          <Content>Anyway, perhaps you'll forgive me in exchange for... pizza??</Content>
         </Dialog>
         <Dialog ID="21" Model="Linus">
           <Teller>Linus</Teller>
@@ -122,7 +122,7 @@
         <Dialog ID="22" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Bacon, sausage, and pepperoni of course. Just because I forgot about the secret code doesn't mean I don't remember you're an insatiable carnivore.</Content>
+          <Content>Bacon, sausage, and pepperoni of course. Kids like you need lots of protein to go strong!</Content>
         </Dialog>
         <Dialog ID="23" Model="Linus">
           <Teller>Linus</Teller>

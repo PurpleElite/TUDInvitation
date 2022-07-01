@@ -69,7 +69,7 @@
     <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
     <Script />
     <BehaviourList>
-      <Behaviour Min="4" Dice="10" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Yun_Yun_H" Script="searph_multi" ActionScript="" Desc="" />
+      <Behaviour Min="4" Dice="10" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Yun_Yun_H" Script="seraph_multi" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>7</Chapter>
     <Priority>0</Priority>
@@ -79,8 +79,8 @@
     <Name>Borrowed Time</Name>
     <Artwork>NymaneKey.png</Artwork>
     <Rarity>Uncommon</Rarity>
-    <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
-    <Script>seraph_borrowed_time_bind</Script>
+    <Spec Range="Near" Cost="0" Affection="One" EmotionLimit="0" />
+    <Script>seraph_borrowed_time_light</Script>
     <BehaviourList>
       <Behaviour Min="3" Dice="8" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="" Desc="" />
       <Behaviour Min="4" Dice="7" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="WarpCrew_Z" Script="" ActionScript="" Desc="" />
@@ -203,7 +203,7 @@
     <ScriptDesc />
 	<BehaviourList>
       <Behaviour Min="3" Dice="5" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="WarpCrew_G" Script="" ActionScript="" Desc="" />
-	  <Behaviour Min="3" Dice="7" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="WarpCrew_G" Script="" ActionScript="" Desc="" />
+	  <Behaviour Min="3" Dice="7" Type="Atk" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="WarpCrew_G" Script="" ActionScript="" Desc="" />
 	  <Behaviour Min="6" Dice="10" Type="Atk" Detail="Hit" Motion="J" MotionDefault="N" EffectRes="Tanya_J" Script="seraph_entropy" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>7</Chapter>
@@ -214,14 +214,14 @@
     <Name>Faster than Time</Name>
     <Artwork>Fast.png</Artwork>
     <Rarity>Rare</Rarity>
-    <Spec Range="Near" Cost="3" Affection="One" EmotionLimit="0" />
+    <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
     <Script>seraph_fastforward</Script>
     <ScriptDesc />
 	<BehaviourList>
       <Behaviour Min="2" Dice="6" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
-      <Behaviour Min="5" Dice="6" Type="Atk" Detail="Hit" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="" Desc="" />
-	  <Behaviour Min="3" Dice="5" Type="Atk" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="WarpCrew_J" Script="" ActionScript="" Desc="" />
-	  <Behaviour Min="2" Dice="4" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Tanya_H" Script="yanOnly1Dice" ActionScript="" Desc="" />
+      <Behaviour Min="5" Dice="6" Type="Atk" Detail="Hit" Motion="Z" MotionDefault="N" EffectRes="Tanya_Z" Script="seraph_erosion_kickback_1" ActionScript="" Desc="" />
+	  <Behaviour Min="3" Dice="5" Type="Atk" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="WarpCrew_J" Script="seraph_erosion_kickback_1" ActionScript="" Desc="" />
+	  <Behaviour Min="2" Dice="4" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Tanya_H" Script="seraph_erosion_kickback2" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>7</Chapter>
     <Priority>0</Priority>

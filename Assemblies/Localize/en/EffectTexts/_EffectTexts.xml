@@ -7,7 +7,7 @@
     </BattleEffectText>
 	<BattleEffectText ID="UnstableEntropy">
       <Name>Unstable Entropy</Name>
-      <Desc>Gain Haste equal to stacks of Erosion. If the character starts a Scene with more than 3 Erosion inflict 1 Erosion on all other allies.</Desc>
+      <Desc>Gain Haste equal to stacks of Erosion. At the start of the scene all stacks of Erosion over 3 are also infliced on allies.</Desc>
     </BattleEffectText>
   </effectTextList>
 </BattleEffectTextRoot>
