@@ -2,24 +2,62 @@
 <BattleDialogRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.1</Version>
   <Character ID="1">
-    <Type ID="START_BATTLE" />
-    <Type ID="BATTLE_VICTORY" />
-    <Type ID="DEATH" />
-    <Type ID="COLLEAGUE_DEATH" />
-    <Type ID="KILLS_OPPONENT" />
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Prepare yourselves, this won't be simple.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">Well done you two! What's say we collect those books and have ourselves a proper feast hm?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">No... I have to... I have to protect them...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">Steady now. I have your back.</BattleDialog>
+	  <BattleDialog ID="1">Bastards! Face me instead!</BattleDialog>
+	  <BattleDialog ID="2">Take a breather, I'll cover you.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">You fought well.</BattleDialog>
+	  <BattleDialog ID="1">I will protect them, no matter the cost.</BattleDialog>
+	  <BattleDialog ID="2">Stay strong you two, we're almost done here.</BattleDialog>
+    </Type>
   </Character>
   <Character ID="2">
-    <Type ID="START_BATTLE" />
-    <Type ID="BATTLE_VICTORY" />
-    <Type ID="DEATH" />
-    <Type ID="COLLEAGUE_DEATH" />
-    <Type ID="KILLS_OPPONENT" />
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">...Guys, the Nymane Key is reacting to this place. It's absorbing power!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">That was too close. This had better be worth it.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">H-help me!!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">No!!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">Erode into nothing.</BattleDialog>
+      <BattleDialog ID="1">Feel the strands of time wear you away.</BattleDialog>
+	  <BattleDialog ID="2">Come on, we've almost got them all!</BattleDialog>
+	</Type>
   </Character>
   <Character ID="3">
-    <Type ID="START_BATTLE" />
-    <Type ID="BATTLE_VICTORY" />
-    <Type ID="DEATH" />
-    <Type ID="COLLEAGUE_DEATH" />
-    <Type ID="KILLS_OPPONENT" />
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Careful with that thing Linus, I'm not gonna forgive you if you accidentally erase the universe or something.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">Gee I... I hope they'll be okay?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Huff... Huff... Can't... keep going...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">They're too strong!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">They also turn into books when they die?</BattleDialog>
+      <BattleDialog ID="1">Just give up already!</BattleDialog>
+	  <BattleDialog ID="2">Sorry, you didn't leave us much choice.</BattleDialog>
+	</Type>
   </Character>
 </BattleDialogRoot>

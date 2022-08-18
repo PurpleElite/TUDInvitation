@@ -122,7 +122,7 @@
         <Dialog ID="22" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Bacon, sausage, and pepperoni of course. Kids like you need lots of protein to go strong!</Content>
+          <Content>Bacon, sausage, and pepperoni of course. Kids like you need lots of protein to grow strong!</Content>
         </Dialog>
         <Dialog ID="23" Model="Linus">
           <Teller>Linus</Teller>
@@ -137,7 +137,7 @@
         <Dialog ID="25" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Have you made any progress with that strange sword artifact of yours, Linus?</Content>
+          <Content>Have you made any more progress with that ruins sword of yours, Linus?</Content>
         </Dialog>
         <Dialog ID="26" Model="Linus">
           <Teller>Linus</Teller>
@@ -157,17 +157,17 @@
         <Dialog ID="29" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>No, hardly any. I feel like I've hit a plateau on what I can discern with the knowledge available.</Content>
+          <Content>No, hardly any. I feel like I've hit a plateau on what I can discern with the tools available.</Content>
         </Dialog>
         <Dialog ID="30" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>The researchers called it the "Nymane Key". There's some deep power hidden away in it, but I've only managed to scratch the surface.</Content>
+          <Content>The researchers kept calling it the "Nymane Key". It's a pretty potent weapon already, but I feel like I've only managed to scratch the surface of what it's capable of.</Content>
         </Dialog>
         <Dialog ID="31" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>The people they've been sending after you two are certainly an indication of that. The ones who assaulted our previous hideout were a Grade 2 office.</Content>
+          <Content>Well the people you took it from certainly seem to think it's quite valuable, based on who they've been sending after us. The ones who assaulted our previous hideout were a Grade 2 office.</Content>
         </Dialog>
         <Dialog ID="32" Model="Sheire">
           <Teller>Sheire</Teller>
@@ -177,27 +177,27 @@
         <Dialog ID="33" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>These runic arrays all contain different functions. I've found these six here can work in conjunction to project a shield, for example.</Content>
+          <Content>Anyway, the only thing I've discerned recently is that if this array of runes is powered along with this one it projects a shield.</Content>
         </Dialog>
         <Dialog ID="34" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>But a lot of these runes are worn down, damaged; I believe they might still work but only with an immense amount of power supplied into them.</Content>
+          <Content>A lot of these runes are worn down, damaged; I think if I could get them working it would open up so many more of the Key's functions. Maybe with a sufficient amount of power forcefully pushed through them...</Content>
         </Dialog>
         <Dialog ID="35" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Does it need to be hooked up to a generator then?</Content>
+          <Content>Does it need to be hooked up to a power plant then?</Content>
         </Dialog>
         <Dialog ID="36" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Not electrical power. The Key seems to run on... well, I'm not entirely sure. All I know is if I could unlock its true potential... it would be able to manipulate the fabric of reality itself.</Content>
+          <Content>Not electrical power. The Key seems to run on... well, I'm not entirely sure how to define it. All I know is if I could unlock its full potential... it would probably be able to manipulate the fabric of reality itself.</Content>
         </Dialog>
         <Dialog ID="37" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>No wonder they want it back so bad...</Content>
+          <Content>Well that's not ominous at all. No wonder they want it back so bad...</Content>
         </Dialog>
         <Dialog ID="38" Model="Johanna">
           <Teller>Johanna</Teller>
@@ -207,27 +207,27 @@
         <Dialog ID="39" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>Uh, Linus, by the way, earlier I got something that I think might help you figure out more about the Key.</Content>
+          <Content>But so you need some kind of anomalous power source? I... I might have something that could help?</Content>
         </Dialog>
         <Dialog ID="40" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>?</Content>
+          <Content>Yeah?</Content>
         </Dialog>
         <Dialog ID="41" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>You've heard of the Library right?</Content>
+          <Content>You've heard of the Library right? I got an invitation-</Content>
         </Dialog>
         <Dialog ID="42" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>...the library?</Content>
+          <Content>...the library? Sheire no offense but I've already scouered all the local book stores and-</Content>
         </Dialog>
         <Dialog ID="43" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>Hahah, one track mind as always. It became a Star of the City lately, everyone's been talking about it.</Content>
+          <Content>No no not A library, THE Library. It became a Star of the City lately, everyone's been talking about it. You really don't pay any attention to local gossip huh?</Content>
         </Dialog>
         <Dialog ID="44" Model="Linus">
           <Teller>Linus</Teller>
@@ -247,37 +247,37 @@
         <Dialog ID="47" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>If there's anywhere that will have info to help him figure that sword out it's here right?</Content>
+          <Content>If there's anywhere that would have what he needs to figure that sword out it'd be there right?</Content>
         </Dialog>
         <Dialog ID="48" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Wait... is this the one that no one ever returns from? I remember hearing something about the Thumb.</Content>
+          <Content>Wait... is this the one that no one ever returns from? I think I remember hearing something about the Thumb getting wiped out because of it?</Content>
         </Dialog>
         <Dialog ID="49" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>Well... yeah, when you put it that way it sounds pretty dangerous.</Content>
+          <Content>Oh, so you did manage to pick up on some gossip after all. Yeah, it's supposed to be pretty dangerous, but if it'll help us unlock that Key of yours then maybe we won't have to run anymore!</Content>
         </Dialog>
         <Dialog ID="50" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Indeed, there's no way either of you will be setting foot in that place. This may be worth looking into though.</Content>
+          <Content>Hm, it certainly is tempting. I suspect that's how it lured in its previous victims. I'll go investigate it, you two stay here.</Content>
         </Dialog>
         <Dialog ID="51" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>Eh? Are you saying you'll go alone?</Content>
+          <Content>Eh? You're going alone?</Content>
         </Dialog>
         <Dialog ID="52" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Hm? Of course. You two are safest here and we need every lead we can get.</Content>
+          <Content>Hm? Of course. I'm not about to bring two kids with me into a potential death trap.</Content>
         </Dialog>
         <Dialog ID="53" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>No way, not this time! This is a Star of the City we're talking about. We're strong now too, so if you're going then so are we! Right Linus?</Content>
+          <Content>Hey, we're not kids anymore! I've been getting better with the Shawl and Linus has gotten a handle on his Key; we're not as strong as you yet but we can help!</Content>
         </Dialog>
         <Dialog ID="54" Model="Linus">
           <Teller>Linus</Teller>
@@ -287,12 +287,12 @@
         <Dialog ID="55" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>*sigh* I hate to say it but it's only a matter of time until we get found by someone we can't outrun or beat in a fight. Everything depends on that "Nymane Key" of yours. It's, well, the key to the two of you's survival.</Content>
+          <Content>Linus, it's only a matter of time until we can't run anymore. Everything depends on that "Nymane Key" of yours. It's, well, the key to our survival.</Content>
         </Dialog>
         <Dialog ID="56" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>And I'll be damned if I let anything happen to either of you.</Content>
+          <Content>And I'll be damned if something happens to either of you because I let you waltz into danger with me. I'll go gather what information I can and then be back before you know it.</Content>
         </Dialog>
         <Dialog ID="57" Model="Linus">
           <Teller>Linus</Teller>
@@ -302,7 +302,7 @@
         <Dialog ID="58" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>But we're not going to let anything happen to you either, Jo! All the close calls we've gotten out of we got out of as a team; if we're not watching eachother's backs then no one is.</Content>
+          <Content>And what if something happens to you because we let you run off on your own, Jo! All the close calls we've gotten out of we got out of as a team; if we're not watching eachother's backs then no one is.</Content>
         </Dialog>
         <Dialog ID="59" Model="Linus">
           <Teller>Linus</Teller>
@@ -332,17 +332,17 @@
         <Dialog ID="64" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Dammit, already?! I knew we should've hid somewhere with a back exit!</Content>
+          <Content>Dammit, already?! How'd they find us so soon??</Content>
         </Dialog>
         <Dialog ID="65" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Unfortunately we're running out of good places to hide. We'll have to fight our way out this time.</Content>
+          <Content>Unfortunately we're running out of good places to hide. We'll fight past them and head to our last safehouse. You know where to go yes?</Content>
         </Dialog>
         <Dialog ID="66" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>Not necessarily, if we sign this invitation apparently it'll teleport us out of here! We might even be able to just hide there for a bit without going through the "ordeal" it talks about.</Content>
+          <Content>Wait, if we sign this invitation it's supposed to teleport us away from here to the Library! We might be able to just hide there for a bit without going through the "ordeal" it talks about.</Content>
         </Dialog>
         <Dialog ID="67" Model="Johanna">
           <Teller>Johanna</Teller>
@@ -352,7 +352,7 @@
         <Dialog ID="68" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Are you certain? I have a bad feeling about this.</Content>
+          <Content>Are you certain? We can't be sure how this thing works.</Content>
         </Dialog>
         <Dialog ID="69" Model="Johanna">
           <Teller>Johanna</Teller>
@@ -372,7 +372,7 @@
         <Dialog ID="72" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Ah, they brought guns this time.</Content>
+          <Content>Ah, they brought guns this time. They're really investing quite a lot in getting those artifacts back.</Content>
         </Dialog>
         <Dialog ID="73" Model="Sheire">
           <Teller>Sheire</Teller>
@@ -397,7 +397,7 @@
         <Dialog ID="77" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Let's hope this Library has some useful info.</Content>
+          <Content>Let's hope this Library doesn't force us to fight...</Content>
         </Dialog>
       </Place>
       <Place>

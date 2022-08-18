@@ -76,7 +76,6 @@
 	  <Passive>7</Passive>
 	  <Passive>8</Passive>
 	  <Passive Pid="@origin">233001</Passive>
-	  <Passive Pid="@origin">240004</Passive>
     </EquipEffect>
     <Rarity>Rare</Rarity>
     <CharacterSkin>LinusNPC</CharacterSkin>
@@ -122,7 +121,6 @@
 	  <Passive>10</Passive>
 	  <Passive>11</Passive>
 	  <Passive Pid="@origin">233001</Passive>
-      <Passive Pid="@origin">253002</Passive>
     </EquipEffect>
     <Rarity>Rare</Rarity>
     <CharacterSkin>SheireNPC</CharacterSkin>
