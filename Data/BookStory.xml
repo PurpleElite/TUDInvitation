@@ -13,5 +13,11 @@
         <Desc />
       </TextList>
     </BookDesc>
+	<BookDesc BookID="10000002">
+      <BookName>Sheire's Page</BookName>
+      <TextList>
+        <Desc />
+      </TextList>
+    </BookDesc>
   </bookDescList>
 </BookDescRoot>
