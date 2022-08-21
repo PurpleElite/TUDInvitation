@@ -111,7 +111,7 @@
     <Filter Src="Fadein" />
     <Bgm Src="ch3_WarpStation" Effect="FadeIn" PrevBgm="FadeOut" />
     <CharacterList>
-      <Character Name="Johanna" Face="none" Pos="L2" Emotion="NONE" Telling="false">
+      <Character Name="Johanna" Face="Amused" Pos="L2" Emotion="NONE" Telling="false">
         <Active Effect="NORMAL" Ratio="0" />
       </Character>
       <Character Name="Linus" Face="none" Pos="C" Emotion="NONE" Telling="false">
@@ -123,12 +123,72 @@
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
+  <Dialogue ID="17">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <CharacterList>
+      <Character Name="Linus" Face="Exasperated" Pos="C" Emotion="ANNOY" Telling="false">
+      </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="18">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <CharacterList>
+      <Character Name="Sheire" Face="Bemused" Pos="R1" Emotion="" Telling="false">
+      </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="19">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <CharacterList>
+      <Character Name="Johanna" Face="none" Pos="L2" Emotion="" Telling="false">
+      </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
   <Dialogue ID="20">
     <Bg Src="None" />
     <Filter Src="Continue" />
     <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList />
     <EffectSound>ch1_ZipperOff</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="21">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <CharacterList>
+      <Character Name="Linus" Face="Suspicious" Pos="C" Emotion="NONE" Telling="false">
+      </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="23">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Linus" Face="none" Pos="C" Emotion="NONE" Telling="false">
+      </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="24">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <CharacterList>
+      <Character Name="Sheire" Face="Mhm" Pos="R1" Emotion="" Telling="false">
+      </Character>
+    </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
   <Dialogue ID="25">

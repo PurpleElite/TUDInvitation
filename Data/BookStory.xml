@@ -4,19 +4,19 @@
     <BookDesc BookID="10000001">
       <BookName>Johanna's Page</BookName>
       <TextList>
-        <Desc />
+        <Desc>test</Desc>
       </TextList>
     </BookDesc>
     <BookDesc BookID="10000002">
       <BookName>Linus' Page</BookName>
       <TextList>
-        <Desc />
+        <Desc>test</Desc>
       </TextList>
     </BookDesc>
 	<BookDesc BookID="10000002">
       <BookName>Sheire's Page</BookName>
       <TextList>
-        <Desc />
+        <Desc>test</Desc>
       </TextList>
     </BookDesc>
   </bookDescList>

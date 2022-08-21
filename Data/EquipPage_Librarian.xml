@@ -4,7 +4,7 @@
   <Book ID="10000001">
     <Name>Johanna's Page</Name>
     <TextId>-1</TextId>
-    <BookIcon />
+    <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
       <HP>110</HP>
@@ -26,12 +26,15 @@
       <Passive>1</Passive>
       <Passive>3</Passive>
       <Passive>2</Passive>
+	  <OnlyCard>1</OnlyCard>
+	  <OnlyCard>4</OnlyCard>
+	  <OnlyCard>8</OnlyCard>
     </EquipEffect>
     <Rarity>Unique</Rarity>
     <CharacterSkin>JohannaKeyPage</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Episode>-1</Episode>
     <NotEquip>false</NotEquip>
     <RandomFace>false</RandomFace>
@@ -47,7 +50,7 @@
   <Book ID="10000002">
     <Name>Linus' Page</Name>
     <TextId>-1</TextId>
-    <BookIcon />
+    <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
       <HP>100</HP>
@@ -69,12 +72,14 @@
       <Passive>5</Passive>
 	  <Passive>7</Passive>
 	  <Passive>8</Passive>
+	  <OnlyCard>1</OnlyCard>
+	  <OnlyCard>14</OnlyCard>
     </EquipEffect>
     <Rarity>Rare</Rarity>
     <CharacterSkin>LinusNPC</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Episode>-1</Episode>
     <NotEquip>false</NotEquip>
     <RandomFace>false</RandomFace>
@@ -85,7 +90,7 @@
   <Book ID="10000003">
     <Name>Sheire's Page</Name>
     <TextId>-1</TextId>
-    <BookIcon />
+    <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
       <HP>100</HP>
@@ -109,12 +114,13 @@
 	  <Passive>9</Passive>
 	  <Passive>10</Passive>
 	  <Passive>11</Passive>
+	  <OnlyCard>1</OnlyCard>
     </EquipEffect>
     <Rarity>Rare</Rarity>
     <CharacterSkin>SheireNPC</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Episode>-1</Episode>
     <NotEquip>false</NotEquip>
     <RandomFace>false</RandomFace>

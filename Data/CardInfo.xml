@@ -11,25 +11,12 @@
       <Behaviour Min="5" Dice="9" Type="Atk" Detail="Hit" Motion="J" MotionDefault="N" EffectRes="Yun_Yun_J" Script="drawCard1atk" ActionScript="" Desc="" /><!--Make the script drawCard1pw for the player version-->
       <Behaviour Min="2" Dice="4" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Yun_Yun_Z" Script="seraph_bonds_powerup" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <SkinChangeType>EGO</SkinChangeType>
     <SkinHeight>0</SkinHeight>
     <Priority>5</Priority>
     <PriorityScript />
-  </Card>
-  <Card ID="2">
-    <Name>Shoulder bash</Name>
-    <Artwork>ShoulderBash.png</Artwork>
-    <Rarity>Uncommon</Rarity>
-    <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
-    <Script>drawCard</Script>
-    <BehaviourList>
-      <Behaviour Min="5" Dice="10" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch3_G" Script="powerDownNext2pwTarget" ActionScript="" Desc="" />
-      <Behaviour Min="4" Dice="6" Type="Atk" Detail="Hit" Motion="J" MotionDefault="N" EffectRes="Bada_G" Script="break3atk" ActionScript="" Desc="" />
-    </BehaviourList>
-    <Chapter>7</Chapter>
-    <Priority>5</Priority>
-    <PriorityScript />
+	<Option>OnlyPage</Option>
   </Card>
   <Card ID="3">
     <Name>Parry! Counter! Thrust!</Name>
@@ -42,7 +29,7 @@
       <Behaviour Min="4" Dice="6" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Molar_Skill_Z" Script="damage5atk" ActionScript="" Desc="" />
       <Behaviour Min="5" Dice="9" Type="Standby" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Yun_Yun_H" Script="vulnerable2pw" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>10</Priority>
     <PriorityScript />
   </Card>
@@ -58,22 +45,10 @@
       <Behaviour Min="5" Dice="8" Type="Standby" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Yun_Yun_H" Script="disarm1atk" ActionScript="" Desc="" />
       <Behaviour Min="9" Dice="15" Type="Standby" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Yun_Z" Script="" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>0</Priority>
     <PriorityScript />
-  </Card>
-  <Card ID="5">
-    <Name>Unrelenting Offensive</Name>
-    <Artwork>PCT.png</Artwork>
-    <Rarity>Uncommon</Rarity>
-    <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
-    <Script />
-    <BehaviourList>
-      <Behaviour Min="4" Dice="10" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Yun_Yun_H" Script="seraph_multi" ActionScript="" Desc="" />
-    </BehaviourList>
-    <Chapter>7</Chapter>
-    <Priority>0</Priority>
-    <PriorityScript />
+	<Option>OnlyPage</Option>
   </Card>
   <Card ID="6">
     <Name>Borrowed Time</Name>
@@ -87,25 +62,7 @@
 	  <Behaviour Min="5" Dice="8" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="WarpCrew_G" Script="" ActionScript="" Desc="" />
 	  <Behaviour Min="1" Dice="3" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="seraph_borrowed_time_recycle" ActionScript="seraph_borrowed_time" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
-    <Priority>0</Priority>
-    <PriorityScript />
-  </Card>
-  <Card ID="7">
-    <Name>test page 1</Name>
-    <Artwork>PCT.png</Artwork>
-    <Rarity>Common</Rarity>
-    <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
-    <Script>energy2</Script>
-    <ScriptDesc />
-    <BehaviourList>
-      <Behaviour Min="1" Dice="10" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="WarpCrew_G" Script="" ActionScript="" Desc="" />
-      <Behaviour Min="5" Dice="10" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
-      <Behaviour Min="5" Dice="8" Type="Atk" Detail="Hit" Motion="J" MotionDefault="N" EffectRes="WarpCrew_J" Script="" ActionScript="" Desc="" />
-      <Behaviour Min="2" Dice="7" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="WarpCrew_Z" Script="" ActionScript="" Desc="" />
-      <Behaviour Min="4" Dice="9" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="drawCard1atk" ActionScript="" Desc="" />
-    </BehaviourList>
-    <Chapter>1</Chapter>
+    <Chapter>6</Chapter>
     <Priority>0</Priority>
     <PriorityScript />
   </Card>
@@ -120,9 +77,10 @@
       <Behaviour Min="7" Dice="10" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Yun_Yun_H" Script="seraph_execute" ActionScript="seraph_johannaexecute" Desc="" />
       <Behaviour Min="1" Dice="5" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="DawnYuna_G" Script="" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>0</Priority>
     <PriorityScript />
+	<Option>OnlyPage</Option>
   </Card>
   <Card ID="9">
     <Name>The Bonds That Protect Us</Name>
@@ -136,7 +94,7 @@
       <Behaviour Min="5" Dice="8" Type="Standby" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch2_G" Script="powerDown1target" ActionScript="" Desc="" />
       <Behaviour Min="5" Dice="8" Type="Standby" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch2_G" Script="powerDown1target" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>50</Priority>
     <PriorityScript />
   </Card>
@@ -151,7 +109,7 @@
       <Behaviour Min="5" Dice="7" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
       <Behaviour Min="3" Dice="8" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>50</Priority>
     <PriorityScript />
   </Card>
@@ -179,7 +137,7 @@
     <BehaviourList>
       <Behaviour Min="7" Dice="14" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="seraph_linus_area" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>50</Priority>
     <PriorityScript />
   </Card>
@@ -190,7 +148,7 @@
     <Spec Range="Near" Cost="2" Affection="Team" EmotionLimit="0" />
     <Script>seraph_together_to_the_end</Script>
     <ScriptDesc />
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>0</Priority>
     <PriorityScript />
   </Card>
@@ -206,9 +164,10 @@
 	  <Behaviour Min="3" Dice="7" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="WarpCrew_G" Script="" ActionScript="" Desc="" />
 	  <Behaviour Min="6" Dice="10" Type="Atk" Detail="Hit" Motion="J" MotionDefault="N" EffectRes="Tanya_J" Script="seraph_entropy" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>0</Priority>
     <PriorityScript />
+	<Option>OnlyPage</Option>
   </Card>
   <Card ID="15">
     <Name>Faster than Time</Name>
@@ -223,7 +182,7 @@
 	  <Behaviour Min="3" Dice="5" Type="Atk" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="WarpCrew_J" Script="seraph_erosion_kickback_1" ActionScript="" Desc="" />
 	  <Behaviour Min="2" Dice="4" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Tanya_H" Script="seraph_erosion_kickback2" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>0</Priority>
     <PriorityScript />
   </Card>
@@ -238,7 +197,7 @@
 	  <Behaviour Min="5" Dice="10" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Bayyard_Z" Script="" ActionScript="" Desc="" />
 	  <Behaviour Min="4" Dice="8" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Bayyard_H" Script="" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>0</Priority>
     <PriorityScript />
   </Card>
@@ -254,7 +213,7 @@
 	  <Behaviour Min="5" Dice="7" Type="Atk" Detail="Hit" Motion="J" MotionDefault="N" EffectRes="Bayyard_J" Script="drawCard1atk" ActionScript="" Desc="" />
 	  <Behaviour Min="3" Dice="8" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Bayyard_Z" Script="" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>0</Priority>
     <PriorityScript />
   </Card>
@@ -270,7 +229,7 @@
 	  <Behaviour Min="3" Dice="5" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch2_G" Script="" ActionScript="" Desc="" />
 	  <Behaviour Min="4" Dice="8" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Bayyard_Z" Script="weak2atk" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>0</Priority>
     <PriorityScript />
   </Card>
@@ -284,7 +243,7 @@
     <BehaviourList>
       <Behaviour Min="3" Dice="7" Type="Standby" Detail="Guard" Motion="G" EffectRes="ch2_G" Script="" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>0</Priority>
   </Card>
 </DiceCardXmlRoot>
