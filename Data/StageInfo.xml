@@ -15,14 +15,14 @@
     <FloorNum>1</FloorNum>
     <Chapter>6</Chapter>
     <Invitation Combine="BookRecipe">
-      <Book>250006</Book>
+      <Book Pid="@origin">250006</Book>
     </Invitation>
     <Condition>
       <Stage>50003</Stage>
     </Condition>
 	<StoryType>SeraphRunaways</StoryType>
     <Story Condition="Start">Intro1.xml</Story>
-    <Story Condition="End" />
+    <Story Condition="End">Outro1.xml</Story>
     <IsChapterLast>false</IsChapterLast>
   </Stage>
 </StageXmlRoot>

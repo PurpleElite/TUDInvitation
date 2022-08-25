@@ -3,7 +3,8 @@
   <Version>1.1</Version>
   <Book ID="10000001">
     <Name>Johanna's Page</Name>
-    <TextId>-1</TextId>
+	<Episode>1</Episode>
+    <TextId>10000001</TextId>
     <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
@@ -49,7 +50,8 @@
   </Book>
   <Book ID="10000002">
     <Name>Linus' Page</Name>
-    <TextId>-1</TextId>
+	<Episode>1</Episode>
+    <TextId>10000002</TextId>
     <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
@@ -68,7 +70,7 @@
       <MaxPlayPoint>4</MaxPlayPoint>
       <StartPlayPoint>4</StartPlayPoint>
       <AddedStartDraw>0</AddedStartDraw>
-      <Passive Pid="@origin">10008</Passive>
+      <Passive Pid="@origin">10001</Passive>
       <Passive>5</Passive>
 	  <Passive>7</Passive>
 	  <Passive>8</Passive>
@@ -89,15 +91,16 @@
   
   <Book ID="10000003">
     <Name>Sheire's Page</Name>
-    <TextId>-1</TextId>
+	<Episode>1</Episode>
+    <TextId>10000003</TextId>
     <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
       <HP>100</HP>
       <DeadLine>0</DeadLine>
       <Break>40</Break>
-      <SpeedMin>2</SpeedMin>
-      <Speed>7</Speed>
+      <SpeedMin>4</SpeedMin>
+      <Speed>6</Speed>
       <SpeedDiceNum>0</SpeedDiceNum>
       <SResist>Endure</SResist>
       <PResist>Normal</PResist>
@@ -108,7 +111,7 @@
       <MaxPlayPoint>4</MaxPlayPoint>
       <StartPlayPoint>4</StartPlayPoint>
       <AddedStartDraw>0</AddedStartDraw>
-      <Passive Pid="@origin">10008</Passive>
+      <Passive Pid="@origin">10001</Passive>
 	  <Passive>12</Passive>
       <Passive>4</Passive>
 	  <Passive>9</Passive>

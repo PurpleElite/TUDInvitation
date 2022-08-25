@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SceneEffect xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dialogue ID="0">
+    <Bg Src="켙0" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Off" />
+    <CharacterList />
+    <EffectSound>ch1_Run</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="1">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>ch1_FingerSnap</EffectSound>
+    <EffectSound>Ch4_SwordOn</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="3">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>ch1_HookWhoosh</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="4">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>CH7_Blue1_Parry</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="5">
+    <Bg Src="None" />
+    <Filter Src="Blood_LEFT" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>Ch6_Blue_Cut</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="6">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>Ch4_PeopleDrag</EffectSound>
+    <EffectSound>ch1_FindWalk</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="7">
+    <Bg Src="None" />
+    <Filter Src="Vibration_weak" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>Ch6_Wand_BattleReady</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="8">
+    <Bg Src="None" />
+    <Filter Src="Vibration_blink" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>CH100_Y_Bug</EffectSound>
+    <EffectSound>ch3_6Time</EffectSound>
+    <EffectSound>CH6_PlutoPortal</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="9">
+    <Bg Src="None" />
+    <Filter Src="Vibration" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList />
+    <EffectSound>CH7_Roland_Duralandal_Down</EffectSound>
+    <EffectSound>CH100_B_RolrandHit</EffectSound>
+    <EffectSound>Story_Machine</EffectSound>
+    <EffectSound>CH7_NewBlue_RolandCutArgalia</EffectSound>
+    <EffectSound>Ch6_Xiao_MapChange</EffectSound>
+    <EffectSound>Ch6_Wand_PlutoHeartAtk</EffectSound>
+    <EffectSound>CH6_PlutoPortal</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="10">
+    <Bg Src="ch1_library_inside" />
+    <Filter Src="Paper" />
+    <Bgm Src="Lobby" Effect="On" PrevBgm="Off" />
+    <CharacterList>
+      <Character Name="롤랑" Face="nomal" Body="nomal" Pos="L2" Emotion="NONE" Telling="false">
+        <Active Effect="NORMAL" Ratio="0" />
+      </Character>
+      <Character Name="앤젤라" Face="sorry" Body="nomal" Pos="R2" Emotion="NONE" Telling="false">
+        <Active Effect="NORMAL" Ratio="0" />
+      </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="11">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="롤랑" Face="happy" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="13">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="롤랑" Face="worry" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="14">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="normal" Body="nomal" Pos="R2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="16">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="shock" Body="nomal" Pos="R2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="17">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="롤랑" Face="sigh" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="18">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="앤젤라" Face="thinking" Body="nomal" Pos="R2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="19">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="롤랑" Face="hogisim" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
+      <Character Name="앤젤라" Face="normal" Body="nomal" Pos="R2" Emotion="NONE" Telling="false">
+        <Deactive Effect="NORMAL" Ratio="0" />
+      </Character>
+    </CharacterList>
+    <EffectSound>ch1_FingerSnap</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <CG Src="Intro3.png" />
+  <storyBranch>None</storyBranch>
+</SceneEffect>

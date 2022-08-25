@@ -4,19 +4,22 @@
     <BookDesc BookID="10000001">
       <BookName>Johanna's Page</BookName>
       <TextList>
-        <Desc>test</Desc>
+        <Desc>Everyone needs something to cherish and protect. For many that's just their own life, but for some people even that can lose all value. A person with nothing to live for is no better than a walking corpse.</Desc>
+		<Desc>I found the two of them when I was at my lowest. Two dirty, malnourished kids cornered and outnumbered. If I had the opportunity to go back to that moment, now knowing the full magnitude of what I was getting myself involved in, I would still make the same decision again.</Desc>
+		<Desc>I've heard time and time again that you shouldn't form close bonds with others if they're just going to die one day. Those are the words of cowards. The bonds that bind us are what drive us to burn our brightest. A life spent in perpetual fear of the pain of loss is hardly a life at all.</Desc>
       </TextList>
     </BookDesc>
     <BookDesc BookID="10000002">
       <BookName>Linus' Page</BookName>
       <TextList>
-        <Desc>test</Desc>
+        <Desc>I thought if I brought something valuable from the ruins they'd let me in and I'd finally be able to live a life where starvation wasn't always just around the corner. They did let me in, but all I got for it was becoming a test subject. My dream of  one day living in the City only brought more suffering to replace the old, familiar pain. I wonder, does it turn out the same for all the people in the Backstreets striving to enter a Nest one day? Is freedom and security always dangled just out of reach to goad us all into a false sense of hope?</Desc>
+		<Desc>I refuse to live by the rules defined by those in power. Me and Sheire stole back the Key and escaped that lab together. I'm going to unlock its secrets, learn how to utilize its full power, and with that power I'll create my own freedom. I won't lose all the people I care about ever again.</Desc>
       </TextList>
     </BookDesc>
-	<BookDesc BookID="10000002">
+	<BookDesc BookID="10000003">
       <BookName>Sheire's Page</BookName>
       <TextList>
-        <Desc>test</Desc>
+        <Desc>Everything in this city is ultimately dictated by violence. </Desc>
       </TextList>
     </BookDesc>
   </bookDescList>

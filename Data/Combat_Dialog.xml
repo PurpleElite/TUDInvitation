@@ -36,7 +36,7 @@
       <BattleDialog ID="0">No!!</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="0">Erode into nothing.</BattleDialog>
+      <BattleDialog ID="0">Erode into dust.</BattleDialog>
       <BattleDialog ID="1">Feel the strands of time wear you away.</BattleDialog>
 	  <BattleDialog ID="2">Come on, we've almost got them all!</BattleDialog>
 	</Type>

@@ -3,8 +3,9 @@
   <Version>1.1</Version>
   <Book ID="1">
     <Name>Johanna</Name>
-    <TextId>-1</TextId>
-    <BookIcon />
+    <Episode>1</Episode>
+    <TextId>1</TextId>
+    <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
       <HP>200</HP>
@@ -36,7 +37,7 @@
     <CharacterSkin>JohannaNPC</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Episode>-1</Episode>
     <NotEquip>false</NotEquip>
     <RandomFace>false</RandomFace>
@@ -51,8 +52,9 @@
   </Book>
   <Book ID="2">
     <Name>Linus</Name>
-    <TextId>-1</TextId>
-    <BookIcon />
+    <Episode>1</Episode>
+    <TextId>2</TextId>
+    <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
       <HP>140</HP>
@@ -81,7 +83,7 @@
     <CharacterSkin>LinusNPC</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Episode>-1</Episode>
     <NotEquip>false</NotEquip>
     <RandomFace>false</RandomFace>
@@ -95,15 +97,16 @@
   </Book>
   <Book ID="3">
     <Name>Sheire</Name>
-    <TextId>-1</TextId>
-    <BookIcon />
+    <Episode>1</Episode>
+    <TextId>3</TextId>
+    <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
       <HP>120</HP>
       <DeadLine>0</DeadLine>
       <Break>80</Break>
       <SpeedMin>4</SpeedMin>
-      <Speed>8</Speed>
+      <Speed>6</Speed>
       <SpeedDiceNum>0</SpeedDiceNum>
       <SResist>Endure</SResist>
       <PResist>Normal</PResist>
@@ -126,7 +129,7 @@
     <CharacterSkin>SheireNPC</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Episode>-1</Episode>
     <NotEquip>false</NotEquip>
     <RandomFace>false</RandomFace>

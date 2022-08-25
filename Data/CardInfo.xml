@@ -40,7 +40,7 @@
     <Spec Range="Near" Cost="3" Affection="One" EmotionLimit="0" />
     <Script>seraph_staggerProtection3start</Script>
     <BehaviourList>
-      <Behaviour Min="3" Dice="9" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="orchestraEgoDice3" ActionScript="" Desc="" />
+      <Behaviour Min="3" Dice="9" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="orchestraEgoDice3" ActionScript="" Desc="" />
       <Behaviour Min="4" Dice="7" Type="Standby" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch2_G" Script="weak1pw" ActionScript="" Desc="" />
       <Behaviour Min="5" Dice="8" Type="Standby" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Yun_Yun_H" Script="disarm1atk" ActionScript="" Desc="" />
       <Behaviour Min="9" Dice="15" Type="Standby" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Yun_Z" Script="" ActionScript="" Desc="" />
@@ -63,7 +63,7 @@
 	  <Behaviour Min="1" Dice="3" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="seraph_borrowed_time_recycle" ActionScript="seraph_borrowed_time" Desc="" />
     </BehaviourList>
     <Chapter>6</Chapter>
-    <Priority>0</Priority>
+    <Priority>1</Priority>
     <PriorityScript />
   </Card>
   <Card ID="8">
@@ -123,7 +123,7 @@
     <BehaviourList>
       <Behaviour Min="7" Dice="14" Type="Standby" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="" Desc="" />
     </BehaviourList>
-    <Chapter>7</Chapter>
+    <Chapter>6</Chapter>
     <Priority>50</Priority>
     <PriorityScript />
   </Card>

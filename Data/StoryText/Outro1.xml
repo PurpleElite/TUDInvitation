@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Chapter ID="-1">
+    <Title />
+  </Chapter>
+  <Group>
+    <GroupName>group</GroupName>
+    <Episode>
+      <EpisodeName>Episode</EpisodeName>
+      <Place>
+        <PlaceName>The Library</PlaceName>
+        <Dialog ID="0" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Fugitive</Title>
+          <Content>Huff... Huff... Huff...</Content>
+        </Dialog>
+        <Dialog ID="1" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Fugitive</Title>
+          <Content>!!!</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Not so fast, kid. You're not the first to try making a run for it.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Fugitive</Title>
+          <Content>You-! You killed them!!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>The Library</PlaceName>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Sorry about that. Just doing my job, you know?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>The Library</PlaceName>
+        <Dialog ID="5" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Fugitive</Title>
+          <Content>Gh-! Haah..!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>The Library</PlaceName>
+        <Dialog ID="6" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Fugitive</Title>
+          <Content>S-Stay back!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>The Library</PlaceName>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Hm? What's that sword of yours doing...?</Content>
+        </Dialog>
+        <Dialog ID="8" Model="Linus">
+          <Teller>Linus</Teller>
+          <Title>Fugitive</Title>
+          <Content>Come on... Come on...</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Oh no you don't!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Inside the Library</PlaceName>
+        <Dialog ID="10" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Whew... managed to actually stop one of them from running for once. Was worried we'd have another Philip on our hands.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Inside the Library</PlaceName>
+        <Dialog ID="11" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Good thing I managed to stop him before he finished doing whatever it was he was trying to do with that sword of his yeah?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>Hm.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Inside the Library</PlaceName>
+        <Dialog ID="13" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>I... did stop him, right?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Inside the Library</PlaceName>
+        <Dialog ID="14" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>It would seem the entire world outside the Library has been rewound by several minutes.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Inside the Library</PlaceName>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>...You're shitting me.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Inside the Library</PlaceName>
+        <Dialog ID="16" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>No, I am not "shitting" you, Roland.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>sigh... Does that mean they're going to come here again? I could really use a break.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Directory</Title>
+          <Content>I... am not certain. We will have to wait and see what happens. In the meantime, I'm going to take a look in their books.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>...The ability to turn back time, huh?</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+</ScenarioRoot>

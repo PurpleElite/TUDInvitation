@@ -171,6 +171,16 @@
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
+  <Dialogue ID="22">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <CharacterList>
+      <Character Name="Johanna" Face="Amused" Pos="L2" Emotion="NONE" Telling="false">
+      </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
   <Dialogue ID="23">
     <Bg Src="None" />
     <Filter Src="Continue" />
@@ -306,7 +316,7 @@
   </Dialogue>
   <Dialogue ID="78">
     <Bg Src="ch1_library_inside" />
-    <Filter Src="Continue" />
+    <Filter Src="Paper" />
     <Bgm Src="Lobby" Effect="FadeIn" PrevBgm="FadeOut" />
     <CharacterList>
       <Character Name="앤젤라" Face="normal" Body="nomal" Pos="R2" Emotion="NONE" Telling="false">
@@ -457,6 +467,6 @@
     <EffectSound>ch1_FingerSnap</EffectSound>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
-  <CG Src="None" />
+  <CG Src="Intro3.png" />
   <storyBranch>None</storyBranch>
 </SceneEffect>
