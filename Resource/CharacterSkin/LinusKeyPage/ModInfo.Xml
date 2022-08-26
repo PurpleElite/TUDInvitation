@@ -1,0 +1,55 @@
+<ModInfo>
+  <ClothInfo>
+    <Name>Linus' Page</Name>
+    <Default>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="89" pivot_y="-165" />
+      <Head head_x="-17" head_y="334" rotation="0" head_enable="True" />
+    </Default>
+    <Guard>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="89" pivot_y="-165" />
+      <Head head_x="-36" head_y="320" rotation="0" head_enable="True" />
+    </Guard>
+    <Evade>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="89" pivot_y="-165" />
+      <Head head_x="41" head_y="338" rotation="9" head_enable="True" />
+    </Evade>
+    <Damaged>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="89" pivot_y="-165" />
+      <Head head_x="-48" head_y="273" rotation="15" head_enable="True" />
+    </Damaged>
+    <Slash>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="89" pivot_y="-165" />
+      <Head head_x="111" head_y="320" rotation="0" head_enable="True" />
+    </Slash>
+    <Penetrate>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="89" pivot_y="-165" />
+      <Head head_x="-16" head_y="318" rotation="0" head_enable="True" />
+    </Penetrate>
+    <Hit>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="89" pivot_y="-165" />
+      <Head head_x="-39" head_y="320" rotation="0" head_enable="True" />
+    </Hit>
+    <Move>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="89" pivot_y="-165" />
+      <Head head_x="-23" head_y="323" rotation="0" head_enable="True" />
+    </Move>
+    <Fire>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="89" pivot_y="-165" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="True" />
+    </Fire>
+    <Aim>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="89" pivot_y="-165" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="True" />
+    </Aim>
+  </ClothInfo>
+</ModInfo>
