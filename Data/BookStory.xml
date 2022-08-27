@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BookDescRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <bookDescList>
-    <BookDesc BookID="10000001">
+    <BookDesc BookID="16167788">
       <BookName>Johanna's Page</BookName>
       <TextList>
         <Desc>Everyone needs something to cherish and protect. For many that's just their own life, but for some people even that can lose all value. A person with nothing to live for is no better than a walking corpse.</Desc>
@@ -9,17 +9,17 @@
 		<Desc>I've heard time and time again that you shouldn't form close bonds with others if they're just going to die one day. Those are the words of cowards. The bonds that bind us are what drive us to burn our brightest. A life spent in perpetual fear of the pain of loss is hardly a life at all.</Desc>
       </TextList>
     </BookDesc>
-    <BookDesc BookID="10000002">
+    <BookDesc BookID="16167789">
       <BookName>Linus' Page</BookName>
       <TextList>
         <Desc>I thought if I brought something valuable from the ruins they'd let me in and I'd finally be able to live a life where starvation wasn't always just around the corner. They did let me in, but all I got for it was becoming a test subject. My dream of  one day living in the City only brought more suffering to replace the old, familiar pain. I wonder, does it turn out the same for all the people in the Backstreets striving to enter a Nest one day? Is freedom and security always dangled just out of reach to goad us all into a false sense of hope?</Desc>
 		<Desc>I refuse to live by the rules defined by those in power. Me and Sheire stole back the Key and escaped that lab together. I'm going to unlock its secrets, learn how to utilize its full power, and with that power I'll create my own freedom. I won't lose all the people I care about ever again.</Desc>
       </TextList>
     </BookDesc>
-	<BookDesc BookID="10000003">
+	<BookDesc BookID="16167790">
       <BookName>Sheire's Page</BookName>
       <TextList>
-        <Desc>Everything in this city is ultimately dictated by violence. </Desc>
+        <Desc>Everything in this city is ultimately dictated by violence. Even in the relatively civilized Nests, everyone is just a few missed payments away from being forcefully evicted. The people in power are the ones with the most capability to inflict violence, and thus we are all controlled by fear and the threat of force.</Desc>
       </TextList>
     </BookDesc>
   </bookDescList>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BookXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.1</Version>
-  <Book ID="10000001">
+  <Book ID="16167788">
     <Name>Johanna's Page</Name>
 	<Episode>1</Episode>
-    <TextId>10000001</TextId>
+    <TextId>16167788</TextId>
     <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
@@ -48,10 +48,10 @@
     <SoundInfo Motion="E" WinExternal="false" Win="Defense_Evasion" LoseExternal="false" Lose="" />
     <SoundInfo Motion="F" WinExternal="false" Win="Yuzin_Special_Atk" LoseExternal="false" Lose="" />
   </Book>
-  <Book ID="10000002">
+  <Book ID="16167789">
     <Name>Linus' Page</Name>
 	<Episode>1</Episode>
-    <TextId>10000002</TextId>
+    <TextId>16167789</TextId>
     <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
@@ -78,7 +78,7 @@
 	  <OnlyCard>14</OnlyCard>
     </EquipEffect>
     <Rarity>Rare</Rarity>
-    <CharacterSkin>LinusNPC</CharacterSkin>
+    <CharacterSkin>LinusKeyPage</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
     <Chapter>6</Chapter>
@@ -89,10 +89,10 @@
     <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
   </Book>
   
-  <Book ID="10000003">
+  <Book ID="16167790">
     <Name>Sheire's Page</Name>
 	<Episode>1</Episode>
-    <TextId>10000003</TextId>
+    <TextId>16167790</TextId>
     <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
@@ -120,7 +120,7 @@
 	  <OnlyCard>1</OnlyCard>
     </EquipEffect>
     <Rarity>Rare</Rarity>
-    <CharacterSkin>SheireNPC</CharacterSkin>
+    <CharacterSkin>SheireKeyPage</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
     <Chapter>6</Chapter>

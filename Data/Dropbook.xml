@@ -7,7 +7,7 @@
     <BookIcon>SeraphRunaways</BookIcon>
     <Chapter>6</Chapter>
     <BookValue>0</BookValue>
-    <DropItem Type="Equip">10000001</DropItem>
+    <DropItem Type="Equip">16167788</DropItem>
   </BookUse>
   <BookUse ID="2">
     <Name>Book of Linus</Name>
@@ -15,7 +15,7 @@
     <BookIcon>SeraphRunaways</BookIcon>
     <Chapter>6</Chapter>
     <BookValue>0</BookValue>
-    <DropItem Type="Equip">10000002</DropItem>
+    <DropItem Type="Equip">16167789</DropItem>
   </BookUse>
   <BookUse ID="3">
     <Name>Book of Sheire</Name>
@@ -23,6 +23,6 @@
     <BookIcon>SeraphRunaways</BookIcon>
     <Chapter>6</Chapter>
     <BookValue>0</BookValue>
-    <DropItem Type="Equip">10000003</DropItem>
+    <DropItem Type="Equip">16167790</DropItem>
   </BookUse>
 </BookUseXmlRoot>
