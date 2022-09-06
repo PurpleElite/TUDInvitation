@@ -55,4 +55,50 @@
     </DropTable>
     <AiScript />
   </Enemy>
+  <!--Endgame versions-->
+  <Enemy ID="4">
+    <Name>Johanna</Name>
+    <FaceType>Skin</FaceType>
+    <NameID>-1</NameID>
+    <MinHeight>170</MinHeight>
+    <MaxHeight>170</MaxHeight>
+    <Unknown>false</Unknown>
+    <Gender>F</Gender>
+    <Retreat>false</Retreat>
+    <BookId>4</BookId>
+    <BodyId>0</BodyId>
+    <Exp>0</Exp>
+    <DropBonus>0</DropBonus>
+    <AiScript />
+  </Enemy>
+  <Enemy ID="5">
+    <Name>Linus</Name>
+    <FaceType>Skin</FaceType>
+    <NameID>-1</NameID>
+    <MinHeight>175</MinHeight>
+    <MaxHeight>175</MaxHeight>
+    <Unknown>false</Unknown>
+    <Gender>M</Gender>
+    <Retreat>true</Retreat>
+    <BookId>5</BookId>
+    <BodyId>0</BodyId>
+    <Exp>0</Exp>
+    <DropBonus>0</DropBonus>
+    <AiScript />
+  </Enemy>
+  <Enemy ID="6">
+    <Name>Sheire</Name>
+    <FaceType>Skin</FaceType>
+    <NameID>-1</NameID>
+    <MinHeight>170</MinHeight>
+    <MaxHeight>170</MaxHeight>
+    <Unknown>false</Unknown>
+    <Gender>F</Gender>
+    <Retreat>false</Retreat>
+    <BookId>6</BookId>
+    <BodyId>0</BodyId>
+    <Exp>0</Exp>
+    <DropBonus>0</DropBonus>
+    <AiScript />
+  </Enemy>
 </EnemyUnitClassRoot>

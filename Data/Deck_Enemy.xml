@@ -34,4 +34,37 @@
     <Card>1</Card>
     <Card>1</Card>
   </Deck>
+  <Deck ID="4">
+    <Card>31</Card>
+    <Card>31</Card>
+    <Card>48</Card>
+    <Card>33</Card>
+    <Card>48</Card>
+    <Card>34</Card>
+    <Card>33</Card>
+    <Card>33</Card>
+    <Card>38</Card>
+  </Deck>
+  <Deck ID="5">
+    <Card>36</Card>
+    <Card>44</Card>
+    <Card>44</Card>
+    <Card>36</Card>
+    <Card>31</Card>
+    <Card>31</Card>
+    <Card>45</Card>
+    <Card>45</Card>
+	<Card>48</Card>
+  </Deck>
+  <Deck ID="6">
+    <Card>49</Card>
+    <Card>49</Card>
+    <Card>48</Card>
+    <Card>48</Card>
+    <Card>47</Card>
+    <Card>47</Card>
+    <Card>31</Card>
+    <Card>31</Card>
+    <Card>31</Card>
+  </Deck>
 </DeckXmlRoot>

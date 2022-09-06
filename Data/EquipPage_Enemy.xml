@@ -10,7 +10,7 @@
       <HpReduction>0</HpReduction>
       <HP>200</HP>
       <DeadLine>0</DeadLine>
-      <Break>150</Break>
+      <Break>135</Break>
       <SpeedMin>2</SpeedMin>
       <Speed>7</Speed>
       <SpeedDiceNum>0</SpeedDiceNum>
@@ -38,7 +38,6 @@
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
     <Chapter>6</Chapter>
-    <Episode>-1</Episode>
     <NotEquip>false</NotEquip>
     <RandomFace>false</RandomFace>
     <SpeedDiceNum>1</SpeedDiceNum>
@@ -54,6 +53,144 @@
     <Name>Linus</Name>
     <Episode>1</Episode>
     <TextId>2</TextId>
+    <BookIcon>SeraphRunaways</BookIcon>
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>95</HP>
+      <DeadLine>0</DeadLine>
+      <Break>50</Break>
+      <SpeedMin>2</SpeedMin>
+      <Speed>6</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Endure</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Endure</PBResist>
+      <HBResist>Normal</HBResist>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">10008</Passive>
+	  <Passive>12</Passive>
+      <Passive>5</Passive>
+	  <Passive>7</Passive>
+	  <Passive>8</Passive>
+	  <Passive Pid="@origin">233001</Passive>
+    </EquipEffect>
+    <Rarity>Rare</Rarity>
+    <CharacterSkin>LinusNPC</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="J" WinExternal="false" Win="Dawn_Yuna_Hori" LoseExternal="false" Lose="Defensed_Vert" />
+    <SoundInfo Motion="H" WinExternal="false" Win="Warp_Mass_Hori" LoseExternal="false" Lose="Defensed_Hori" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Warp_Mass_Stab" LoseExternal="false" Lose="Defensed_Stab" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Wand_Nemo_Guard_Win" LoseExternal="false" Lose="Wand_Nemo_Guard" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Defense_Evasion" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="3">
+    <Name>Sheire</Name>
+    <Episode>1</Episode>
+    <TextId>3</TextId>
+    <BookIcon>SeraphRunaways</BookIcon>
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>80</HP>
+      <DeadLine>0</DeadLine>
+      <Break>60</Break>
+      <SpeedMin>3</SpeedMin>
+      <Speed>6</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Endure</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <HBResist>Endure</HBResist>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">10008</Passive>
+	  <Passive>12</Passive>
+      <Passive>4</Passive>
+	  <Passive>9</Passive>
+	  <Passive>10</Passive>
+	  <Passive>11</Passive>
+	  <Passive Pid="@origin">233001</Passive>
+    </EquipEffect>
+    <Rarity>Rare</Rarity>
+    <CharacterSkin>SheireNPC</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+	<SoundInfo Motion="H" WinExternal="false" Win="Blow_Hori" LoseExternal="false" Lose="Defensed_Hori" />
+    <SoundInfo Motion="J" WinExternal="false" Win="RabbitTeam_Vert" LoseExternal="false" Lose="Defensed_Vert" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Sweeper_Stab" LoseExternal="false" Lose="Defensed_Stab" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Defense_Guard_Win" LoseExternal="false" Lose="Defense_Guard" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Defense_Evasion" LoseExternal="false" Lose="" />
+  </Book>
+  <!--Endgame balanced versions-->
+  <Book ID="4">
+    <Name>Johanna</Name>
+    <Episode>1</Episode>
+    <TextId>4</TextId>
+    <BookIcon>SeraphRunaways</BookIcon>
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>200</HP>
+      <DeadLine>0</DeadLine>
+      <Break>150</Break>
+      <SpeedMin>2</SpeedMin>
+      <Speed>7</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Immune</SResist>
+      <PResist>Immune</PResist>
+      <HResist>Immune</HResist>
+      <SBResist>Endure</SBResist>
+      <PBResist>Normal</PBResist>
+      <HBResist>Normal</HBResist>
+      <MaxPlayPoint>5</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>1</AddedStartDraw>
+      <Passive Pid="@origin">10004</Passive>
+	  <Passive>12</Passive>
+	  <Passive>6</Passive>
+      <Passive>3</Passive>
+	  <Passive>1</Passive>
+      <Passive>2</Passive>
+	  <Passive>14</Passive>
+      <Passive Pid="@origin">233001</Passive>
+      <Passive Pid="@origin">250026</Passive>
+    </EquipEffect>
+    <Rarity>Unique</Rarity>
+    <CharacterSkin>JohannaNPC</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>7</Chapter>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="J" WinExternal="false" Win="Purple_Guard" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Wedge_Stab" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="H" WinExternal="false" Win="Wedge_Hori" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Defense_Guard_Win" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Defense_Evasion" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="F" WinExternal="false" Win="Yuzin_Special_Atk" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="5">
+    <Name>Linus</Name>
+    <Episode>1</Episode>
+    <TextId>5</TextId>
     <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
@@ -83,8 +220,7 @@
     <CharacterSkin>LinusNPC</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
-    <Chapter>6</Chapter>
-    <Episode>-1</Episode>
+    <Chapter>7</Chapter>
     <NotEquip>false</NotEquip>
     <RandomFace>false</RandomFace>
     <SpeedDiceNum>1</SpeedDiceNum>
@@ -95,10 +231,10 @@
     <SoundInfo Motion="G" WinExternal="false" Win="Wand_Nemo_Guard_Win" LoseExternal="false" Lose="Wand_Nemo_Guard" />
     <SoundInfo Motion="E" WinExternal="false" Win="Defense_Evasion" LoseExternal="false" Lose="" />
   </Book>
-  <Book ID="3">
+  <Book ID="6">
     <Name>Sheire</Name>
     <Episode>1</Episode>
-    <TextId>3</TextId>
+    <TextId>6</TextId>
     <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
@@ -129,8 +265,7 @@
     <CharacterSkin>SheireNPC</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
-    <Chapter>6</Chapter>
-    <Episode>-1</Episode>
+    <Chapter>7</Chapter>
     <NotEquip>false</NotEquip>
     <RandomFace>false</RandomFace>
     <SpeedDiceNum>1</SpeedDiceNum>

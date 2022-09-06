@@ -126,30 +126,27 @@
   <Dialogue ID="17">
     <Bg Src="None" />
     <Filter Src="Continue" />
-    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList>
-      <Character Name="Linus" Face="Exasperated" Pos="C" Emotion="ANNOY" Telling="false">
-      </Character>
+      <Character Name="Linus" Face="Exasperated" Pos="C" Emotion="ANNOY" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
   <Dialogue ID="18">
     <Bg Src="None" />
     <Filter Src="Continue" />
-    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList>
-      <Character Name="Sheire" Face="Bemused" Pos="R1" Emotion="" Telling="false">
-      </Character>
+      <Character Name="Sheire" Face="Bemused" Pos="R1" Emotion="" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
   <Dialogue ID="19">
     <Bg Src="None" />
     <Filter Src="Continue" />
-    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList>
-      <Character Name="Johanna" Face="none" Pos="L2" Emotion="" Telling="false">
-      </Character>
+      <Character Name="Johanna" Face="none" Pos="L2" Emotion="" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
@@ -164,20 +161,18 @@
   <Dialogue ID="21">
     <Bg Src="None" />
     <Filter Src="Continue" />
-    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList>
-      <Character Name="Linus" Face="Suspicious" Pos="C" Emotion="NONE" Telling="false">
-      </Character>
+      <Character Name="Linus" Face="Suspicious" Pos="C" Emotion="NONE" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
   <Dialogue ID="22">
     <Bg Src="None" />
     <Filter Src="Continue" />
-    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList>
-      <Character Name="Johanna" Face="Amused" Pos="L2" Emotion="NONE" Telling="false">
-      </Character>
+      <Character Name="Johanna" Face="Amused" Pos="L2" Emotion="NONE" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
@@ -186,18 +181,16 @@
     <Filter Src="Continue" />
     <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList>
-      <Character Name="Linus" Face="none" Pos="C" Emotion="NONE" Telling="false">
-      </Character>
+      <Character Name="Linus" Face="none" Pos="C" Emotion="NONE" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
   <Dialogue ID="24">
     <Bg Src="None" />
     <Filter Src="Continue" />
-    <Bgm Src="None" Effect="None" PrevBgm="Continue" />>
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList>
-      <Character Name="Sheire" Face="Mhm" Pos="R1" Emotion="" Telling="false">
-      </Character>
+      <Character Name="Sheire" Face="Mhm" Pos="R1" Emotion="" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
@@ -411,7 +404,7 @@
       <Character Name="롤랑" Face="nomal" Body="nomal" Pos="L2" Emotion="NONE" Telling="false">
         <Deactive Effect="NORMAL" Ratio="0" />
       </Character>
-      <Character Name="Johanna" Face="none" Pos="L1" Emotion="NONE" Telling="false">
+      <Character Name="Johanna" Face="Serious" Pos="L1" Emotion="NONE" Telling="false">
         <Active Effect="NORMAL" Ratio="0" />
       </Character>
       <Character Name="Linus" Face="none" Pos="L3" Emotion="NONE" Telling="false">
@@ -420,6 +413,69 @@
       <Character Name="Sheire" Face="none" Pos="L2" Emotion="NONE" Telling="false">
         <Active Effect="NORMAL" Ratio="0" />
       </Character>
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="88">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Sheire" Face="Surprise" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="89">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Linus" Face="Exasperated" Pos="L3" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="91">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Linus" Face="Suspicious" Pos="L3" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="92">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Sheire" Face="Bemused" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="93">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Linus" Face="normal" Pos="L3" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="94">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Sheire" Face="normal" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="95">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Johanna" Face="Amused" Pos="L1" Emotion="NONE" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
@@ -435,6 +491,33 @@
     <EffectSound>ch1_FingerSnap</EffectSound>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
+  <Dialogue ID="98">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Johanna" Face="normal" Pos="L1" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="101">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Sheire" Face="Bemused" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="103">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Sheire" Face="normal" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
   <Dialogue ID="104">
     <Bg Src="None" />
     <Filter Src="Continue" />
@@ -442,7 +525,24 @@
     <CharacterList>
       <Character Name="앤젤라" Face="angry" Body="nomal" Pos="R2" Emotion="NONE" Telling="false" />
     </CharacterList>
-    <EffectSound>ch1_FingerSnap</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="105">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Linus" Face="Surprise" Pos="L3" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="107">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Sheire" Face="Sigh" Pos="L2" Emotion="NONE" Telling="false" />
+    </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
   <Dialogue ID="108">
@@ -452,7 +552,6 @@
     <CharacterList>
       <Character Name="앤젤라" Face="smile" Body="nomal" Pos="R2" Emotion="NONE" Telling="false" />
     </CharacterList>
-    <EffectSound>ch1_FingerSnap</EffectSound>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
   <Dialogue ID="109">
@@ -465,6 +564,24 @@
       </Character>
     </CharacterList>
     <EffectSound>ch1_FingerSnap</EffectSound>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="110">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Johanna" Face="normal" Pos="L1" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="112">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Linus" Face="normal" Pos="L3" Emotion="NONE" Telling="false" />
+    </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
   <CG Src="Intro3.png" />

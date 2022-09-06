@@ -8,7 +8,7 @@
     <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
-      <HP>110</HP>
+      <HP>85</HP>
       <DeadLine>0</DeadLine>
       <Break>40</Break>
       <SpeedMin>2</SpeedMin>
@@ -67,8 +67,8 @@
       <SBResist>Normal</SBResist>
       <PBResist>Endure</PBResist>
       <HBResist>Normal</HBResist>
-      <MaxPlayPoint>4</MaxPlayPoint>
-      <StartPlayPoint>4</StartPlayPoint>
+      <MaxPlayPoint>3</MaxPlayPoint>
+      <StartPlayPoint>3</StartPlayPoint>
       <AddedStartDraw>0</AddedStartDraw>
       <Passive Pid="@origin">10001</Passive>
       <Passive>5</Passive>
@@ -96,9 +96,9 @@
     <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
-      <HP>100</HP>
+      <HP>90</HP>
       <DeadLine>0</DeadLine>
-      <Break>40</Break>
+      <Break>45</Break>
       <SpeedMin>4</SpeedMin>
       <Speed>6</Speed>
       <SpeedDiceNum>0</SpeedDiceNum>
@@ -108,8 +108,8 @@
       <SBResist>Normal</SBResist>
       <PBResist>Normal</PBResist>
       <HBResist>Endure</HBResist>
-      <MaxPlayPoint>4</MaxPlayPoint>
-      <StartPlayPoint>4</StartPlayPoint>
+      <MaxPlayPoint>3</MaxPlayPoint>
+      <StartPlayPoint>3</StartPlayPoint>
       <AddedStartDraw>0</AddedStartDraw>
       <Passive Pid="@origin">10001</Passive>
 	  <Passive>12</Passive>

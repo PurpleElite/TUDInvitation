@@ -337,22 +337,22 @@
         <Dialog ID="65" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Unfortunately we're running out of good places to hide. We'll fight past them and head to our last safehouse. You know where to go yes?</Content>
+          <Content>Unfortunately we're running out of good places to hide. We'll fight past them and head to our last safehouse. You know where to go, yes?</Content>
         </Dialog>
         <Dialog ID="66" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>Wait, if we sign this invitation it's supposed to teleport us away from here to the Library! We might be able to just hide there for a bit without going through the "ordeal" it talks about.</Content>
+          <Content>Wait, wait. If we sign this invitation it's supposed to teleport us to the Library, maybe we'll be able to just hide there for a bit without going through the "ordeal" it talks about?</Content>
         </Dialog>
         <Dialog ID="67" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Not a bad idea. Here, give it to me.</Content>
+          <Content>Not a bad idea, it will make it impossible for them to track us. Here, give it to me.</Content>
         </Dialog>
         <Dialog ID="68" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Are you certain? We can't be sure how this thing works.</Content>
+          <Content>Are you sure? We don't know for certain how all this works.</Content>
         </Dialog>
         <Dialog ID="69" Model="Johanna">
           <Teller>Johanna</Teller>
@@ -397,7 +397,7 @@
         <Dialog ID="77" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Let's hope this Library doesn't force us to fight...</Content>
+          <Content>Let's hope we don't run into any more trouble there...</Content>
         </Dialog>
       </Place>
       <Place>
@@ -405,17 +405,17 @@
         <Dialog ID="78" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Huh, I remember seeing the open bounty on those three before coming here. That was no small sum. I even considered going after them myself.</Content>
+          <Content>Huh, I remember seeing the open bounty on those kids before coming here. That was no small sum. Whoever they took that whatever-Key-sword-thing from must really want it back.</Content>
         </Dialog>
         <Dialog ID="79" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>They look like small fry, but if they've survived this long and are even willing to take on a Star of the City by themselves, then maybe there's more to them than meets the eye.</Content>
+          <Content>They look like small fry, but if they've survived this long I'm guessing there's more to them than meets the eye.</Content>
         </Dialog>
         <Dialog ID="80" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>It's bizarre seeing someone wearing full platemail in the City though, and what's up with that girl's feather shawl thing? They look more like LARPers than fugitives.</Content>
+          <Content>It's bizarre seeing someone wearing full platemail in the City though, and what's up with that girl's feather shawl thing? They look more like LARPers than dangerous fugitives.</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -425,17 +425,17 @@
         <Dialog ID="82" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Uh, it's nothing ma'am.</Content>
+          <Content>Uh... Don't worry about it, ma'am.</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <Content>I'm interested in that 'Nymane Key'. After you've received our guests: those who were trying to retrieve it will no doubt come here looking for the book containing it.</Content>
+          <Content>I'm interested in that 'Nymane Key'. If their pursuers are so intent on retrieving it then they'll certainly come here looking for it after we've converted these guests into books.</Content>
         </Dialog>
         <Dialog ID="84" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Yeah, I wonder what that thing is though? Other than a very impractical looking rusty sword. It looks like something that'd come from the Ruins.</Content>
+          <Content>Yeah, I wonder what it is though? Other than a horribly rusted, unwieldy sword. It looks like something that'd come from the Ruins.</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -445,7 +445,7 @@
         <Dialog ID="86" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Yeah, yeah, I got it.</Content>
+          <Content>Yeah, yeah, I'm on it.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -483,7 +483,7 @@
         <Dialog ID="93" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Don't look at me like that, Shei! You know how I feel about wasted food.</Content>
+          <Content>I'm just saying, it's a waste of perfectly good food.</Content>
         </Dialog>
         <Dialog ID="94" Model="Sheire">
           <Teller>Sheire</Teller>
@@ -493,7 +493,7 @@
         <Dialog ID="95" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Hahaha, I'll be sure to treat us all to a proper feast after this is over.</Content>
+          <Content>Hahah, I'll be sure to treat us all to a proper feast once we're safely in hiding again.</Content>
         </Dialog>
         <Dialog ID="96" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -513,7 +513,7 @@
         <Dialog ID="99" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>Uh, hi! I'm Sheire! Nice to meet you.</Content>
+          <Content>Um, hi! I'm Sheire! Nice to meet you.</Content>
         </Dialog>
         <Dialog ID="100" Model="Linus">
           <Teller>Linus</Teller>
@@ -528,12 +528,12 @@
         <Dialog ID="102" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Sorry, it just feels weird to be cordial with someone who's probably hoping we'll die here...</Content>
+          <Content>Sorry, just feels weird to be polite with someone who's probably hoping we'll die here...</Content>
         </Dialog>
         <Dialog ID="103" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>Right, uh, speaking of: I don't suppose we could just... wait here for a bit until the people chasing us give up, and then leave peacefully?</Content>
+          <Content>Right, uh, speaking of: I don't suppose we could just hide here for a bit until the people chasing us give up? We can answer any questions you have. That's what you do here right? Gather information?</Content>
         </Dialog>
         <Dialog ID="104" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -548,12 +548,12 @@
         <Dialog ID="106" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>It was worth an attempt young Sheire, but it seems the only option is to press forward.</Content>
+          <Content>It was worth an attempt young Sheire, but it seems the only option for now is to prepare for battle.</Content>
         </Dialog>
         <Dialog ID="107" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>*sigh* Why does it always end in violence...?</Content>
+          <Content>*sigh* Everything always ends in more fighting...</Content>
         </Dialog>
         <Dialog ID="108" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -568,7 +568,7 @@
         <Dialog ID="110" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Well then. Stay behind me, and if things start to look bad we retreat.</Content>
+          <Content>Well then, no way but forward. Stay behind me, and if things start to look bad we retreat.</Content>
         </Dialog>
         <Dialog ID="111" Model="Sheire">
           <Teller>Sheire</Teller>
