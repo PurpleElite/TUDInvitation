@@ -139,7 +139,7 @@
     <Script>seraph_bonds_drive</Script>
     <ScriptDesc />
     <BehaviourList>
-      <Behaviour Min="4" Dice="10" Type="Standby" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="3" Dice="9" Type="Standby" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>6</Chapter>
     <Priority>50</Priority>
@@ -190,20 +190,21 @@
   <Card ID="15">
     <Name>Faster than Time</Name>
     <Artwork>Fast.png</Artwork>
-    <Rarity>Rare</Rarity>
+    <Rarity>Unique</Rarity>
     <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
     <Script>seraph_fastforward</Script>
     <ScriptDesc />
 	<BehaviourList>
       <Behaviour Min="2" Dice="6" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
-      <Behaviour Min="5" Dice="6" Type="Atk" Detail="Hit" Motion="Z" MotionDefault="N" EffectRes="Tanya_Z" Script="seraph_erosion_kickback1" ActionScript="" Desc="" />
-	  <Behaviour Min="3" Dice="5" Type="Atk" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="WarpCrew_J" Script="seraph_erosion_kickback1" ActionScript="" Desc="" />
+      <Behaviour Min="5" Dice="6" Type="Atk" Detail="Hit" Motion="J" MotionDefault="N" EffectRes="WarpCrew_J" Script="" ActionScript="" Desc="" />
+	  <Behaviour Min="1" Dice="5" Type="Atk" Detail="Hit" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="" Desc="" />
+	  <Behaviour Min="2" Dice="5" Type="Atk" Detail="Slash" Motion="Z" MotionDefault="N" EffectRes="Tanya_Z" Script="seraph_erosion_kickback1" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>6</Chapter>
     <Priority>0</Priority>
     <PriorityScript />
   </Card>
-  <Card ID="17"> <!--for the player version, make it force a clash with the target-->
+  <Card ID="17">
     <Name>Eyes on me!</Name>
     <Artwork>Distraction.png</Artwork>
     <Rarity>Rare</Rarity>
