@@ -59,12 +59,12 @@
     <Desc>Twice per Scene, after suffering a one-sided attack, gain 1 Strength next Scene.</Desc>
   </Passive>
   <Passive ID="8">
-    <Rarity>Rare</Rarity>
+    <Rarity>Unique</Rarity>
     <InnerType>-1</InnerType>
-    <Cost>6</Cost>
+    <Cost>4</Cost>
     <Script>seraph_the_nymane_key</Script>
     <Name>The Nymane Key</Name>
-    <Desc>50% chance to inflict 1 Erosion on a successful attack. Attacks deal 4 less damage. Gain Power equal to stacks of Erosion on self.</Desc>
+    <Desc>50% chance to inflict 1 Erosion to self on a successful attack. Gain Power equal to stacks of Erosion on self, to a max of 3.</Desc>
   </Passive>
   <Passive ID="9">
 	<Rarity>Rare</Rarity>

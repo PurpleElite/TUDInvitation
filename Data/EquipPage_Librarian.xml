@@ -8,11 +8,11 @@
     <BookIcon>SeraphRunaways</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
-      <HP>85</HP>
+      <HP>60</HP>
       <DeadLine>0</DeadLine>
       <Break>40</Break>
-      <SpeedMin>2</SpeedMin>
-      <Speed>7</Speed>
+      <SpeedMin>1</SpeedMin>
+      <Speed>4</Speed>
       <SpeedDiceNum>0</SpeedDiceNum>
       <SResist>Immune</SResist>
       <PResist>Immune</PResist>
@@ -27,7 +27,8 @@
       <Passive>1</Passive>
       <Passive>3</Passive>
       <Passive>2</Passive>
-	  <OnlyCard>1</OnlyCard>
+	  <OnlyCard>2</OnlyCard>
+	  <OnlyCard>3</OnlyCard>
 	  <OnlyCard>4</OnlyCard>
 	  <OnlyCard>8</OnlyCard>
     </EquipEffect>
@@ -59,7 +60,7 @@
       <DeadLine>0</DeadLine>
       <Break>40</Break>
       <SpeedMin>2</SpeedMin>
-      <Speed>7</Speed>
+      <Speed>5</Speed>
       <SpeedDiceNum>0</SpeedDiceNum>
       <SResist>Normal</SResist>
       <PResist>Normal</PResist>
@@ -74,7 +75,7 @@
       <Passive>5</Passive>
 	  <Passive>7</Passive>
 	  <Passive>8</Passive>
-	  <OnlyCard>1</OnlyCard>
+	  <OnlyCard>2</OnlyCard>
 	  <OnlyCard>14</OnlyCard>
     </EquipEffect>
     <Rarity>Rare</Rarity>
@@ -99,7 +100,7 @@
       <HP>90</HP>
       <DeadLine>0</DeadLine>
       <Break>45</Break>
-      <SpeedMin>4</SpeedMin>
+      <SpeedMin>2</SpeedMin>
       <Speed>6</Speed>
       <SpeedDiceNum>0</SpeedDiceNum>
       <SResist>Endure</SResist>
@@ -112,12 +113,11 @@
       <StartPlayPoint>3</StartPlayPoint>
       <AddedStartDraw>0</AddedStartDraw>
       <Passive Pid="@origin">10001</Passive>
-	  <Passive>12</Passive>
       <Passive>4</Passive>
 	  <Passive>9</Passive>
 	  <Passive>10</Passive>
 	  <Passive>11</Passive>
-	  <OnlyCard>1</OnlyCard>
+	  <OnlyCard>2</OnlyCard>
     </EquipEffect>
     <Rarity>Rare</Rarity>
     <CharacterSkin>SheireKeyPage</CharacterSkin>

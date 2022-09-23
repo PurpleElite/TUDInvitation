@@ -11,8 +11,8 @@
       <HP>200</HP>
       <DeadLine>0</DeadLine>
       <Break>135</Break>
-      <SpeedMin>2</SpeedMin>
-      <Speed>7</Speed>
+      <SpeedMin>1</SpeedMin>
+      <Speed>6</Speed>
       <SpeedDiceNum>0</SpeedDiceNum>
       <SResist>Immune</SResist>
       <PResist>Immune</PResist>
@@ -103,8 +103,8 @@
       <HP>80</HP>
       <DeadLine>0</DeadLine>
       <Break>60</Break>
-      <SpeedMin>3</SpeedMin>
-      <Speed>6</Speed>
+      <SpeedMin>2</SpeedMin>
+      <Speed>7</Speed>
       <SpeedDiceNum>0</SpeedDiceNum>
       <SResist>Endure</SResist>
       <PResist>Normal</PResist>
@@ -160,7 +160,7 @@
       <HBResist>Normal</HBResist>
       <MaxPlayPoint>5</MaxPlayPoint>
       <StartPlayPoint>4</StartPlayPoint>
-      <AddedStartDraw>1</AddedStartDraw>
+      <AddedStartDraw>3</AddedStartDraw>
       <Passive Pid="@origin">10004</Passive>
 	  <Passive>12</Passive>
 	  <Passive>6</Passive>
@@ -208,7 +208,7 @@
       <HBResist>Normal</HBResist>
       <MaxPlayPoint>4</MaxPlayPoint>
       <StartPlayPoint>4</StartPlayPoint>
-      <AddedStartDraw>0</AddedStartDraw>
+      <AddedStartDraw>2</AddedStartDraw>
       <Passive Pid="@origin">10008</Passive>
 	  <Passive>12</Passive>
       <Passive>5</Passive>
@@ -252,7 +252,7 @@
       <HBResist>Endure</HBResist>
       <MaxPlayPoint>4</MaxPlayPoint>
       <StartPlayPoint>4</StartPlayPoint>
-      <AddedStartDraw>0</AddedStartDraw>
+      <AddedStartDraw>2</AddedStartDraw>
       <Passive Pid="@origin">10008</Passive>
 	  <Passive>12</Passive>
       <Passive>4</Passive>
