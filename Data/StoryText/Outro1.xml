@@ -85,7 +85,7 @@
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Good thing I managed to stop him before he finished doing whatever it was he was trying to do with that sword of his yeah?</Content>
+          <Content>Good thing I managed to stop him before he finished doing whatever it was he was trying to do with that weird sword of his yeah?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -127,7 +127,7 @@
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>sigh... Does that mean they're going to come here again? I could really use a break.</Content>
+          <Content>sigh... So, what? Did it rewind before they came here? Are they about to show up again? I swear if we're stuck in some kind of time loop now...</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -137,7 +137,12 @@
         <Dialog ID="19" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>...The ability to turn back time, huh?</Content>
+          <Content>Seeya, Angela.</Content>
+        </Dialog>
+		<Dialog ID="20" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>...So that sword has the ability to turn back time, huh? I wonder...</Content>
         </Dialog>
       </Place>
     </Episode>

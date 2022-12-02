@@ -372,7 +372,7 @@
         <Dialog ID="72" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Ah, they brought guns this time. They're really investing quite a lot in getting those artifacts back.</Content>
+          <Content>They brought guns this time? Now that's just insulting.</Content>
         </Dialog>
         <Dialog ID="73" Model="Sheire">
           <Teller>Sheire</Teller>
@@ -387,12 +387,12 @@
         <Dialog ID="75" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>Ahaha! Come on then! Face me in melee!</Content>
+          <Content>Ahaha! Come on then! Come at me!</Content>
         </Dialog>
         <Dialog ID="76" Model="">
           <Teller>???</Teller>
           <Title>Hunter</Title>
-          <Content>Shit! Her armor's bullet proof!</Content>
+          <Content>Shit! We're not getting through her armor!</Content>
         </Dialog>
         <Dialog ID="77" Model="Linus">
           <Teller>Linus</Teller>
@@ -405,37 +405,37 @@
         <Dialog ID="78" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Huh, I remember seeing the open bounty on those kids before coming here. That was no small sum. Whoever they took that whatever-Key-sword-thing from must really want it back.</Content>
+          <Content>Huh, I remember seeing the open bounty on those kids. That was no small sum. Whoever they took that whatever-Key-thing from must really want it back.</Content>
         </Dialog>
         <Dialog ID="79" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>They look like small fry, but if they've survived this long I'm guessing there's more to them than meets the eye.</Content>
+          <Content>They seem like small fry, but if they've survived this long I'm guessing there's more to them than meets the eye.</Content>
         </Dialog>
         <Dialog ID="80" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>It's bizarre seeing someone wearing full platemail in the City though, and what's up with that girl's feather shawl thing? They look more like LARPers than dangerous fugitives.</Content>
+          <Content>It's bizarre seeing someone wearing full platemail in the City though... and what's up with that girl's feather shawl thing? They look more like cosplayers than anything.</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <Content>'LARPers'?</Content>
+          <Content>'Cosplayers'?</Content>
         </Dialog>
         <Dialog ID="82" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Uh... Don't worry about it, ma'am.</Content>
+          <Content>You know, dressing up like fictional characters and stuff? ...Eh, don't worry about it.</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <Content>I'm interested in that 'Nymane Key'. If their pursuers are so intent on retrieving it then they'll certainly come here looking for it after we've converted these guests into books.</Content>
+          <Content>I'm interested in that 'Nymane Key' of theirs. If their pursuers are so intent on retrieving it, then they'll certainly come here looking for it after we've converted these guests into books.</Content>
         </Dialog>
         <Dialog ID="84" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Yeah, I wonder what it is though? Other than a horribly rusted, unwieldy sword. It looks like something that'd come from the Ruins.</Content>
+          <Content>Yeah. I wonder what it is though? Other than a horribly rusted and unwieldy sword. It looks like something you'd find in the Ruins.</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -445,7 +445,7 @@
         <Dialog ID="86" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Yeah, yeah, I'm on it.</Content>
+          <Content>Yeah, yeah. I'm on it.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -488,7 +488,7 @@
         <Dialog ID="94" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>Right. Sorry. Just remind yourself you're not in the Outskirts anymore okay? Food is abundant here.</Content>
+          <Content>Right. Sorry. Just remind yourself you're not in the Outskirts anymore, okay? Food is abundant here.</Content>
         </Dialog>
         <Dialog ID="95" Model="Johanna">
           <Teller>Johanna</Teller>
@@ -523,12 +523,12 @@
         <Dialog ID="101" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>C'mon Linus, be polite.</Content>
+          <Content>C'mon, Linus. Doesn't hurt to be polite.</Content>
         </Dialog>
         <Dialog ID="102" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Sorry, just feels weird to be polite with someone who's probably hoping we'll die here...</Content>
+          <Content>Sorry, just feels weird to be all friendly with someone who's probably banking on us dying here...</Content>
         </Dialog>
         <Dialog ID="103" Model="Sheire">
           <Teller>Sheire</Teller>
@@ -543,12 +543,12 @@
         <Dialog ID="105" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Turned into a book? That's unsettling.</Content>
+          <Content>Converted into a book...?</Content>
         </Dialog>
         <Dialog ID="106" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <Content>It was worth an attempt young Sheire, but it seems the only option for now is to prepare for battle.</Content>
+          <Content>Well, it was worth an attempt young Sheire, but it seems the only option for now is to prepare for battle.</Content>
         </Dialog>
         <Dialog ID="107" Model="Sheire">
           <Teller>Sheire</Teller>

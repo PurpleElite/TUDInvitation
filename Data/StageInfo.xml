@@ -2,7 +2,7 @@
 <StageXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.1</Version>
   <Stage id="1">
-    <Name>Runaway Fugitives</Name>
+    <Name>Artifact Bearers</Name>
     <Wave>
       <Unit>1</Unit>
       <Unit>2</Unit>
@@ -26,7 +26,7 @@
     <IsChapterLast>false</IsChapterLast>
   </Stage>
   <Stage id="2">
-    <Name>Runaway Fugitives (Endgame)</Name>
+    <Name>Artifact Bearers (Endgame)</Name>
     <Wave>
       <Unit>4</Unit>
       <Unit>5</Unit>

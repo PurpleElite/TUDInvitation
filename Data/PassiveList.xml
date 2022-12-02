@@ -31,7 +31,7 @@
     <Cost>5</Cost>
     <Script>seraph_bonds_that_bind_us_restore</Script>
     <Name>The Bonds that Restore Us</Name>
-    <Desc>At the start of the act gain one stack of The Bonds that Bind Us and add a unique combat page to hand. At the start of the Scene restore HP and Stagger Resist for two allies equal to 3×(Bonds stacks), max 9.</Desc>
+    <Desc>At the start of the act gain one stack of The Bonds that Bind Us and add a unique combat page to hand. At the start of the Scene restore HP for two allies equal to 3×(Bonds stacks), max 9.</Desc>
   </Passive>
   <Passive ID="5">
     <Rarity>Unique</Rarity>

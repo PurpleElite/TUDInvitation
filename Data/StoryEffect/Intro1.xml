@@ -326,7 +326,7 @@
     <Filter Src="Continue" />
     <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList>
-      <Character Name="롤랑" Face="worry" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
+      <Character Name="롤랑" Face="normal" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
@@ -353,7 +353,7 @@
     <Filter Src="Continue" />
     <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList>
-      <Character Name="롤랑" Face="sigh" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
+      <Character Name="롤랑" Face="oh" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
@@ -572,6 +572,15 @@
     <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList>
       <Character Name="Johanna" Face="normal" Pos="L1" Emotion="NONE" Telling="false" />
+    </CharacterList>
+    <BgChangeState>Default</BgChangeState>
+  </Dialogue>
+  <Dialogue ID="111">
+    <Bg Src="None" />
+    <Filter Src="Continue" />
+    <Bgm Src="None" Effect="None" PrevBgm="Continue" />
+    <CharacterList>
+      <Character Name="Sheire" Face="normal" Pos="L2" Emotion="NONE" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
