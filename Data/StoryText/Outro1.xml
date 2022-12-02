@@ -6,7 +6,7 @@
   <Group>
     <GroupName>group</GroupName>
     <Episode>
-      <EpisodeName>Episode</EpisodeName>
+      <EpisodeName>SeraphRunaways</EpisodeName>
       <Place>
         <PlaceName>The Library</PlaceName>
         <Dialog ID="0" Model="Linus">
@@ -142,7 +142,7 @@
 		<Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>...So that sword has the ability to turn back time, huh? I wonder...</Content>
+          <Content>...The ability to turn back time, huh? I wonder...</Content>
         </Dialog>
       </Place>
     </Episode>

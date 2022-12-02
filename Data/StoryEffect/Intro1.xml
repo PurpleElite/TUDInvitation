@@ -326,7 +326,7 @@
     <Filter Src="Continue" />
     <Bgm Src="None" Effect="None" PrevBgm="Continue" />
     <CharacterList>
-      <Character Name="롤랑" Face="normal" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
+      <Character Name="롤랑" Face="nomal" Body="nomal" Pos="L2" Emotion="NONE" Telling="false" />
     </CharacterList>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
