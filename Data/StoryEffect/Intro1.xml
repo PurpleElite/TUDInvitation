@@ -12,6 +12,7 @@
     <Filter Src="Continue" />
     <Bgm Src="None" Effect="None" PrevBgm="Off" />
     <CharacterList />
+	<EffectSound>ch1_FindWalk</EffectSound>
     <BgChangeState>Default</BgChangeState>
   </Dialogue>
   <Dialogue ID="3">

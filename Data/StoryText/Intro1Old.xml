@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<ScenarioRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="-1">
     <Title />
   </Chapter>
@@ -17,25 +17,23 @@
         <Dialog ID="1" Model="">
           <Teller>???</Teller>
           <Title />
-          <VoiceFile>Intro1_1_Linus</VoiceFile>
+		  <VoiceFile>intro1_1_Linus</VoiceFile>
           <Content>...She should be back by now.</Content>
         </Dialog>
         <Dialog ID="2" Model="">
           <Teller>????</Teller>
           <Title />
-          <VoiceFile>Intro1_2_Sheire</VoiceFile>
+		  <VoiceFile>intro1_2_Sheire</VoiceFile>
           <Content>Linus, would you please stop pacing? This is Jo we're talking about, she'll be back.</Content>
         </Dialog>
         <Dialog ID="3" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_3_Linus</VoiceFile>
           <Content>And what if they find us while she's away? She's our lifeline in this city, without her protection we're good as dead.</Content>
         </Dialog>
         <Dialog ID="4" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_4_Sheire</VoiceFile>
           <Content>A little optimism wouldn't kill you! We've made it this far, and you're getting a hang of using that weird sword of yours, right?</Content>
         </Dialog>
         <Dialog ID="5" Model="">
@@ -46,433 +44,361 @@
         <Dialog ID="6" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_6_Sheire</VoiceFile>
           <Content>Was that-?</Content>
         </Dialog>
         <Dialog ID="7" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_7_Linus</VoiceFile>
           <Content>...That wasn't the knock we agreed on...</Content>
         </Dialog>
         <Dialog ID="8" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_8_Sheire</VoiceFile>
           <Content>...Maybe she forgot?</Content>
         </Dialog>
         <Dialog ID="9" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_9_Linus</VoiceFile>
           <Content>That's not a risk I'm willing to take. Ugh, I knew this apartment was a terrible hiding place! We're going to have to fight past them.</Content>
         </Dialog>
         <Dialog ID="10" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_10_Sheire</VoiceFile>
           <Content>Um, why don't we check the peephole first?</Content>
         </Dialog>
         <Dialog ID="11" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_11_Linus</VoiceFile>
           <Content>Better to catch them off guard, let's throw the door open and rush them!</Content>
         </Dialog>
         <Dialog ID="12" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_12_Sheire</VoiceFile>
           <Content>...Okay, I'm ready. On three?</Content>
         </Dialog>
         <Dialog ID="13" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_13_Linus</VoiceFile>
           <Content>Yeah. One... Two...</Content>
         </Dialog>
         <Dialog ID="14" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_14_Linus</VoiceFile>
           <Content>THREE!</Content>
         </Dialog>
         <Dialog ID="15" Model="Linus">
           <Teller>All</Teller>
           <Title />
-          <VoiceFile>Intro1_15_All</VoiceFile>
           <Content>AAAAAAHHH!!!</Content>
         </Dialog>
         <Dialog ID="16" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_16_Johanna</VoiceFile>
           <Content>Haha! Woah there! Glad to see you're both on your toes!</Content>
         </Dialog>
         <Dialog ID="17" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_17_Linus</VoiceFile>
           <Content>Jo....</Content>
         </Dialog>
         <Dialog ID="18" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_18_Sheire</VoiceFile>
           <Content>That wasn't the password we came up with.</Content>
         </Dialog>
         <Dialog ID="19" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_19_Johanna</VoiceFile>
           <Content>Hm? Password? Ohhh yes, yes, sorry it slipped my mind. I was very preoccupied with losing my tail. You wouldn't believe how big your bounties have gotten.</Content>
         </Dialog>
         <Dialog ID="20" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_20_Johanna</VoiceFile>
           <Content>Anyway, perhaps you'll forgive me in exchange for... pizza??</Content>
         </Dialog>
         <Dialog ID="21" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_21_Linus</VoiceFile>
           <Content>...What toppings?</Content>
         </Dialog>
         <Dialog ID="22" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_22_Johanna</VoiceFile>
           <Content>Bacon, sausage, and pepperoni, of course. Kids like you need lots of protein to grow strong!</Content>
         </Dialog>
         <Dialog ID="23" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_23_Linus</VoiceFile>
           <Content>Hm... Forgiven.</Content>
         </Dialog>
         <Dialog ID="24" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_24_Sheire</VoiceFile>
           <Content>Mhm, you're off the hook. This time.</Content>
         </Dialog>
         <Dialog ID="25" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_25_Johanna</VoiceFile>
           <Content>Have you made any more progress with that sword from the Ruins, Linus?</Content>
         </Dialog>
         <Dialog ID="26" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_26_Linus</VoiceFile>
           <Content>Nof reahy, ah feeh hike-</Content>
         </Dialog>
         <Dialog ID="27" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_27_Johanna</VoiceFile>
           <Content>Finish chewing first.</Content>
         </Dialog>
         <Dialog ID="28" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_28_Linus</VoiceFile>
           <Content>....</Content>
         </Dialog>
         <Dialog ID="29" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_29_Linus</VoiceFile>
           <Content>No, hardly any. I feel like I've hit a plateau on what I can discern with the tools available.</Content>
         </Dialog>
         <Dialog ID="30" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_30_Linus</VoiceFile>
           <Content>The researchers kept calling it the "Nymane Key". It's a pretty potent weapon already, but I feel like I've only managed to scratch the surface of what it's capable of.</Content>
         </Dialog>
         <Dialog ID="31" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_31_Johanna</VoiceFile>
           <Content>Well the people you took it from certainly seem to think it's quite valuable, based on who they've been sending after us. The ones who assaulted our previous hideout were a Grade 2 office.</Content>
         </Dialog>
         <Dialog ID="32" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_32_Sheire</VoiceFile>
           <Content>Ugh, I wish they'd just leave us alone...</Content>
         </Dialog>
         <Dialog ID="33" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_33_Linus</VoiceFile>
           <Content>Anyway, the only thing I've discerned recently is that if this array of runes is powered along with this one it projects a shield.</Content>
         </Dialog>
         <Dialog ID="34" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_34_Linus</VoiceFile>
           <Content>A lot of these runes are worn down, damaged; I think if I could get them working it would open up so many more of the Key's functions. Maybe with a sufficient amount of power forcefully pushed through them...</Content>
         </Dialog>
         <Dialog ID="35" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_35_Johanna</VoiceFile>
           <Content>Does it need to be hooked up to a power plant then?</Content>
         </Dialog>
         <Dialog ID="36" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_36_Linus</VoiceFile>
           <Content>Not electrical power. The Key seems to run on... well, I'm not entirely sure how to define it. All I know is if I could unlock its full potential... it would probably be able to manipulate the fabric of reality itself.</Content>
         </Dialog>
         <Dialog ID="37" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_37_Sheire</VoiceFile>
           <Content>Well that's not ominous at all. No wonder they want it back so bad...</Content>
         </Dialog>
         <Dialog ID="38" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_38_Johanna</VoiceFile>
           <Content>All the more reason to make sure no one else gets their hands on it.</Content>
         </Dialog>
         <Dialog ID="39" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_39_Sheire</VoiceFile>
           <Content>But so you need some kind of anomalous power source? I... I might have something that could help?</Content>
         </Dialog>
         <Dialog ID="40" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_40_Linus</VoiceFile>
           <Content>Yeah?</Content>
         </Dialog>
         <Dialog ID="41" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_41_Sheire</VoiceFile>
           <Content>You've heard of the Library right? I got an invitation-</Content>
         </Dialog>
         <Dialog ID="42" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_42_Linus</VoiceFile>
           <Content>A library? Sheire no offense but I've already scoured all the local book stores and-</Content>
         </Dialog>
         <Dialog ID="43" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_43_Sheire</VoiceFile>
           <Content>No no not just a library, THE Library. It became a Star of the City lately, everyone's been talking about it. You really don't pay any attention to local gossip, huh?</Content>
         </Dialog>
         <Dialog ID="44" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_44_Linus</VoiceFile>
           <Content>...I have more important things to focus on.</Content>
         </Dialog>
         <Dialog ID="45" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_45_Johanna</VoiceFile>
           <Content>May I see that?</Content>
         </Dialog>
         <Dialog ID="46" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_46_Johanna</VoiceFile>
           <Content>Hm...</Content>
         </Dialog>
         <Dialog ID="47" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_47_Sheire</VoiceFile>
           <Content>If there's anywhere that would have what he needs to figure that sword out it'd be there right?</Content>
         </Dialog>
         <Dialog ID="48" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_48_Linus</VoiceFile>
           <Content>Wait, is this the one that no one ever returns from? I think I remember hearing something about the Thumb getting wiped out because of it.</Content>
         </Dialog>
         <Dialog ID="49" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_49_Sheire</VoiceFile>
           <Content>Oh, so you did manage to pick up on some gossip after all! Yeah, it's supposed to be pretty dangerous, but if it'll help us unlock that Key of yours then maybe we won't have to run anymore!</Content>
         </Dialog>
         <Dialog ID="50" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_50_Johanna</VoiceFile>
           <Content>Hm, it certainly is tempting. I suspect that's how it lured in its previous victims. I'll go investigate it, you two stay here.</Content>
         </Dialog>
         <Dialog ID="51" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_51_Sheire</VoiceFile>
           <Content>Eh? You're going alone?</Content>
         </Dialog>
         <Dialog ID="52" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_52_Johanna</VoiceFile>
           <Content>Hm? Of course. I'm not about to bring two kids with me into a potential death trap.</Content>
         </Dialog>
         <Dialog ID="53" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_53_Sheire</VoiceFile>
           <Content>Hey, we're not kids anymore! I've been getting better with the Shawl and Linus has gotten a handle on his Key; we're not as strong as you yet but we can help!</Content>
         </Dialog>
         <Dialog ID="54" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_54_Linus</VoiceFile>
           <Content>I'd rather none of us go. It sounds needlessly risky.</Content>
         </Dialog>
         <Dialog ID="55" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_55_Johanna</VoiceFile>
           <Content>Linus, it's only a matter of time until we can't run anymore. Everything depends on that "Nymane Key" of yours. It's, well, the key to our survival.</Content>
         </Dialog>
         <Dialog ID="56" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_56_Johanna</VoiceFile>
           <Content>And I'll be damned if something happens to either of you because I let you waltz into danger with me. I'll go gather what information I can and then be back before you know it.</Content>
         </Dialog>
         <Dialog ID="57" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_57_Linus</VoiceFile>
           <Content>But...</Content>
         </Dialog>
         <Dialog ID="58" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_58_Sheire</VoiceFile>
           <Content>And what if something happens to you because we let you run off on your own, Jo?! All the close calls we've gotten out of we got out of as a team; if we're not watching each other's backs then no one is.</Content>
         </Dialog>
         <Dialog ID="59" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_59_Linus</VoiceFile>
           <Content>I'm still against the idea, but if we're doing it we're doing it together.</Content>
         </Dialog>
         <Dialog ID="60" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_60_Johanna</VoiceFile>
           <Content>Haha, always so stubborn...</Content>
         </Dialog>
         <Dialog ID="61" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_61_Johanna</VoiceFile>
           <Content>Hm?</Content>
         </Dialog>
         <Dialog ID="62" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_62_Sheire</VoiceFile>
           <Content>What's wrong?</Content>
         </Dialog>
         <Dialog ID="63" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_63_Johanna</VoiceFile>
           <Content>We have company. Grab your weapons.</Content>
         </Dialog>
         <Dialog ID="64" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_64_Linus</VoiceFile>
           <Content>Dammit, already?! How'd they find us so soon?!</Content>
         </Dialog>
         <Dialog ID="65" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_65_Johanna</VoiceFile>
           <Content>Unfortunately we're running out of good places to hide. We'll fight past them and head to our last safehouse. You know where to go, yes?</Content>
         </Dialog>
         <Dialog ID="66" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_66_Sheire</VoiceFile>
           <Content>Wait, wait. If we sign this invitation it's supposed to teleport us to the Library. Maybe we'll be able to just hide there for a bit without going through the "ordeal" it talks about?</Content>
         </Dialog>
         <Dialog ID="67" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_67_Johanna</VoiceFile>
           <Content>Not a bad idea, it will make it impossible for them to track us. Here, give it to me.</Content>
         </Dialog>
         <Dialog ID="68" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_68_Linus</VoiceFile>
           <Content>Are you sure? We don't know for certain how all this works.</Content>
         </Dialog>
         <Dialog ID="69" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_69_Johanna</VoiceFile>
           <Content>Yes, now both of you sign it. We're out of time.</Content>
         </Dialog>
         <Dialog ID="70" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_70_Linus</VoiceFile>
           <Content>Shit!</Content>
         </Dialog>
         <Dialog ID="71" Model="">
           <Teller>???</Teller>
           <Title>Hunter</Title>
-          <VoiceFile>Intro1_71_Hunter</VoiceFile>
           <Content>There they are! Open fire!</Content>
         </Dialog>
         <Dialog ID="72" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_72_Johanna</VoiceFile>
           <Content>They brought guns this time? Now that's just insulting.</Content>
         </Dialog>
         <Dialog ID="73" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_73_Sheire</VoiceFile>
           <Content>Linus, your turn! Hurry!</Content>
         </Dialog>
         <Dialog ID="74" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_74_Linus</VoiceFile>
           <Content>Dammit...</Content>
         </Dialog>
         <Dialog ID="75" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_75_Johanna</VoiceFile>
           <Content>Ahaha! Come on then! Come at me!</Content>
         </Dialog>
         <Dialog ID="76" Model="">
           <Teller>???</Teller>
           <Title>Hunter</Title>
-          <VoiceFile>Intro1_76_Hunter</VoiceFile>
           <Content>Shit! We're not getting through her armor!</Content>
         </Dialog>
         <Dialog ID="77" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_77_Linus</VoiceFile>
           <Content>Let's hope we don't run into any more trouble there...</Content>
         </Dialog>
       </Place>
@@ -481,55 +407,46 @@
         <Dialog ID="78" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <VoiceFile>Intro1_78_Roland</VoiceFile>
           <Content>Huh, I remember seeing the open bounty on those kids. That was no small sum. Whoever they took that whatever-Key-thing from must really want it back.</Content>
         </Dialog>
         <Dialog ID="79" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <VoiceFile>Intro1_79_Roland</VoiceFile>
           <Content>They seem like small fry, but if they've survived this long I'm guessing there's more to them than meets the eye.</Content>
         </Dialog>
         <Dialog ID="80" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <VoiceFile>Intro1_80_Roland</VoiceFile>
           <Content>It's bizarre seeing someone wearing full platemail in the City though... and what's up with that girl's feather shawl thing? They look more like cosplayers than anything.</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <VoiceFile>Intro1_81_Angela</VoiceFile>
           <Content>'Cosplayers'?</Content>
         </Dialog>
         <Dialog ID="82" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <VoiceFile>Intro1_82_Roland</VoiceFile>
           <Content>You know, dressing up like fictional characters and stuff? ...Eh, don't worry about it.</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <VoiceFile>Intro1_83_Angela</VoiceFile>
-          <Content>I'm interested in that 'Nymane Key' of theirs. If their pursuers are so intent on retrieving it, then they'll certainly come here looking for it after we've received these guests.</Content>
+          <Content>I'm interested in that 'Nymane Key' of theirs. If their pursuers are so intent on retrieving it, then they'll certainly come here looking for it after we've converted these guests into books.</Content>
         </Dialog>
         <Dialog ID="84" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <VoiceFile>Intro1_84_Roland</VoiceFile>
           <Content>Yeah. I wonder what it is though? It's so rusted it seems like it would break the moment it's used like a sword. Anything from the Ruins is bound to be full of surprises, though.</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <VoiceFile>Intro1_85_Angela</VoiceFile>
           <Content>Acquire their books and perhaps that mystery will be unraveled.</Content>
         </Dialog>
         <Dialog ID="86" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <VoiceFile>Intro1_86_Roland</VoiceFile>
           <Content>Yeah, yeah. I'm on it.</Content>
         </Dialog>
       </Place>
@@ -538,157 +455,131 @@
         <Dialog ID="87" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_87_Johanna</VoiceFile>
           <Content>Everyone alright?</Content>
         </Dialog>
         <Dialog ID="88" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_88_Sheire</VoiceFile>
           <Content>Yeah. Whew, that was a close call. Linus?</Content>
         </Dialog>
         <Dialog ID="89" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_89_Linus</VoiceFile>
           <Content>Ugh... dangit.</Content>
         </Dialog>
         <Dialog ID="90" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_90_Sheire</VoiceFile>
           <Content>Linus? What's wrong?</Content>
         </Dialog>
         <Dialog ID="91" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_91_Linus</VoiceFile>
           <Content>Forgot to grab the pizza...</Content>
         </Dialog>
         <Dialog ID="92" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_92_Sheire</VoiceFile>
           <Content>Linus.</Content>
         </Dialog>
         <Dialog ID="93" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_93_Linus</VoiceFile>
           <Content>I'm just saying, it's a waste of perfectly good food.</Content>
         </Dialog>
         <Dialog ID="94" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_94_Sheire</VoiceFile>
-          <Content>Right. Sorry. Just remind yourself you're not in the Outskirts anymore, okay? Food is hardly our biggest problem here.</Content>
+          <Content>Right. Sorry. Just remind yourself you're not in the Outskirts anymore, okay? Food is abundant here.</Content>
         </Dialog>
         <Dialog ID="95" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_95_Johanna</VoiceFile>
           <Content>Hahah, I'll be sure to treat us all to a proper feast once we're safely in hiding again.</Content>
         </Dialog>
         <Dialog ID="96" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <VoiceFile>Intro1_96_Angela</VoiceFile>
           <Content>Greetings, dear guests.</Content>
         </Dialog>
         <Dialog ID="97" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <VoiceFile>Intro1_97_Angela</VoiceFile>
           <Content>I am Angela, the director and librarian of my role's namesake.</Content>
         </Dialog>
         <Dialog ID="98" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_98_Johanna</VoiceFile>
           <Content>Hello! I am Johanna Seraphine, once a Grade 1 Fixer and now the steadfast guardian of these two.</Content>
         </Dialog>
         <Dialog ID="99" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_99_Sheire</VoiceFile>
           <Content>Um, hi! I'm Sheire! Nice to meet you.</Content>
         </Dialog>
         <Dialog ID="100" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_100_Linus</VoiceFile>
           <Content>...Linus.</Content>
         </Dialog>
         <Dialog ID="101" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_101_Sheire</VoiceFile>
           <Content>C'mon, Linus. Doesn't hurt to be polite.</Content>
         </Dialog>
         <Dialog ID="102" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_102_Linus</VoiceFile>
           <Content>Sorry, just feels weird to be all friendly with someone who's probably banking on us dying here...</Content>
         </Dialog>
         <Dialog ID="103" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_103_Sheire</VoiceFile>
           <Content>Right, uh, speaking of: I don't suppose we could just hide here for a bit until the people chasing us give up? We can answer any questions you have. That's what you do here right? Gather information?</Content>
         </Dialog>
         <Dialog ID="104" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <VoiceFile>Intro1_104_Angela</VoiceFile>
           <Content>The rules of the invitation are clear: you must either overcome the ordeal before you, or be converted into books yourselves.</Content>
         </Dialog>
         <Dialog ID="105" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_105_Linus</VoiceFile>
           <Content>Converted into a book...?</Content>
         </Dialog>
         <Dialog ID="106" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_106_Johanna</VoiceFile>
           <Content>Well, it was worth an attempt young Sheire, but it seems the only option for now is to prepare for battle.</Content>
         </Dialog>
         <Dialog ID="107" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_107_Sheire</VoiceFile>
           <Content>Everything always ends in more fighting...</Content>
         </Dialog>
         <Dialog ID="108" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <VoiceFile>Intro1_108_Angela</VoiceFile>
           <Content>May you find your book in this place.</Content>
         </Dialog>
         <Dialog ID="109" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_109_Linus</VoiceFile>
           <Content>Hey wait-! Oh, there she goes.</Content>
         </Dialog>
         <Dialog ID="110" Model="Johanna">
           <Teller>Johanna</Teller>
           <Title>Ex-Fixer</Title>
-          <VoiceFile>Intro1_110_Johanna</VoiceFile>
           <Content>Well then, no way but forward. Stay behind me, and if things start to look bad we retreat.</Content>
         </Dialog>
         <Dialog ID="111" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_111_Sheire</VoiceFile>
           <Content>We've got your back, Jo!</Content>
         </Dialog>
         <Dialog ID="112" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <VoiceFile>Intro1_112_Linus</VoiceFile>
           <Content>Yeah, let's do this.</Content>
         </Dialog>
       </Place>

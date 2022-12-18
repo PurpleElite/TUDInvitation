@@ -168,7 +168,6 @@
 	  <Passive>1</Passive>
       <Passive>2</Passive>
 	  <Passive>14</Passive>
-      <Passive Pid="@origin">233001</Passive>
       <Passive Pid="@origin">250026</Passive>
     </EquipEffect>
     <Rarity>Unique</Rarity>
