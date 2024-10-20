@@ -104,11 +104,11 @@
     <Name>The Bonds That Protect Us</Name>
     <Artwork>BondsJo.png</Artwork>
     <Rarity>Rare</Rarity>
-    <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
+    <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
     <Script>seraph_bonds_protection</Script>
     <ScriptDesc />
     <BehaviourList>
-      <Behaviour Min="2" Dice="8" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="1" Dice="7" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
       <Behaviour Min="2" Dice="5" Type="Standby" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch2_G" Script="powerDown1target" ActionScript="" Desc="" />
       <Behaviour Min="2" Dice="5" Type="Standby" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch2_G" Script="powerDown1target" ActionScript="" Desc="" />
     </BehaviourList>
@@ -120,12 +120,12 @@
     <Name>The Bonds That Restore Us</Name>
     <Artwork>BondsSheire.png</Artwork>
     <Rarity>Rare</Rarity>
-    <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
+    <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
     <Script>seraph_bonds_restore</Script>
     <ScriptDesc />
     <BehaviourList>
-      <Behaviour Min="3" Dice="7" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
-      <Behaviour Min="2" Dice="8" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="2" Dice="7" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="1" Dice="8" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>6</Chapter>
     <Priority>50</Priority>
@@ -135,11 +135,11 @@
     <Name>The Bonds That Drive Us</Name>
     <Artwork>BondsLinus.png</Artwork>
     <Rarity>Rare</Rarity>
-    <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
+    <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
     <Script>seraph_bonds_drive</Script>
     <ScriptDesc />
     <BehaviourList>
-      <Behaviour Min="4" Dice="10" Type="Standby" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="3" Dice="9" Type="Standby" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>6</Chapter>
     <Priority>50</Priority>
@@ -153,7 +153,7 @@
     <Script></Script>
     <ScriptDesc />
     <BehaviourList>
-      <Behaviour Min="5" Dice="11" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="seraph_linus_area" Desc="" />
+      <Behaviour Min="3" Dice="9" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="seraph_linus_area" Desc="" />
     </BehaviourList>
     <Chapter>6</Chapter>
     <Priority>50</Priority>
@@ -190,20 +190,21 @@
   <Card ID="15">
     <Name>Faster than Time</Name>
     <Artwork>Fast.png</Artwork>
-    <Rarity>Rare</Rarity>
+    <Rarity>Unique</Rarity>
     <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
     <Script>seraph_fastforward</Script>
     <ScriptDesc />
 	<BehaviourList>
-      <Behaviour Min="2" Dice="6" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
-      <Behaviour Min="5" Dice="6" Type="Atk" Detail="Hit" Motion="Z" MotionDefault="N" EffectRes="Tanya_Z" Script="seraph_erosion_kickback1" ActionScript="" Desc="" />
-	  <Behaviour Min="3" Dice="5" Type="Atk" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="WarpCrew_J" Script="seraph_erosion_kickback1" ActionScript="" Desc="" />
+      <Behaviour Min="2" Dice="6" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="5" Dice="6" Type="Atk" Detail="Hit" Motion="J" MotionDefault="N" EffectRes="WarpCrew_J" Script="" ActionScript="" Desc="" />
+	  <Behaviour Min="1" Dice="5" Type="Atk" Detail="Hit" Motion="H" MotionDefault="N" EffectRes="WarpCrew_H" Script="" ActionScript="" Desc="" />
+	  <Behaviour Min="2" Dice="5" Type="Atk" Detail="Slash" Motion="Z" MotionDefault="N" EffectRes="Tanya_Z" Script="seraph_erosion_kickback1" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>6</Chapter>
     <Priority>0</Priority>
     <PriorityScript />
   </Card>
-  <Card ID="17"> <!--for the player version, make it force a clash with the target-->
+  <Card ID="17">
     <Name>Eyes on me!</Name>
     <Artwork>Distraction.png</Artwork>
     <Rarity>Rare</Rarity>
@@ -226,7 +227,7 @@
     <Script>seraph_willpower</Script>
     <ScriptDesc />
 	<BehaviourList>
-	  <Behaviour Min="1" Dice="14" Type="Def" Detail="Evasion" Motion="Z" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
+	  <Behaviour Min="1" Dice="14" Type="Def" Detail="Evasion" Motion="Z" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
 	  <Behaviour Min="5" Dice="7" Type="Atk" Detail="Hit" Motion="J" MotionDefault="N" EffectRes="Yun_Yun_J" Script="drawCard1atk" ActionScript="" Desc="" />
 	  <Behaviour Min="2" Dice="8" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Yun_Yun_Z" Script="" ActionScript="" Desc="" />
     </BehaviourList>
@@ -242,7 +243,7 @@
     <Script></Script>
     <ScriptDesc />
 	<BehaviourList>
-	  <Behaviour Min="6" Dice="8" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="seraph_powerDown3targetAtk" Desc="" />
+	  <Behaviour Min="6" Dice="8" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="seraph_powerDown3targetAtk" Desc="" />
 	  <Behaviour Min="3" Dice="5" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch2_G" Script="" ActionScript="" Desc="" />
 	  <Behaviour Min="3" Dice="6" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Bayyard_Z" Script="weak2atk" ActionScript="" Desc="" />
     </BehaviourList>
@@ -354,7 +355,7 @@
     <Script>seraph_bonds_protection</Script>
     <ScriptDesc />
     <BehaviourList>
-      <Behaviour Min="3" Dice="9" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="powerDown1target" ActionScript="" Desc="" />
+      <Behaviour Min="3" Dice="9" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="powerDown1target" ActionScript="" Desc="" />
       <Behaviour Min="5" Dice="8" Type="Standby" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch2_G" Script="powerDown1target" ActionScript="" Desc="" />
       <Behaviour Min="5" Dice="8" Type="Standby" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch2_G" Script="powerDown1target" ActionScript="" Desc="" />
     </BehaviourList>
@@ -370,8 +371,8 @@
     <Script>seraph_bonds_restore</Script>
     <ScriptDesc />
     <BehaviourList>
-      <Behaviour Min="5" Dice="7" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
-      <Behaviour Min="3" Dice="8" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="5" Dice="7" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="3" Dice="8" Type="Standby" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>7</Chapter>
     <Priority>50</Priority>
@@ -441,7 +442,7 @@
     <Script>seraph_fastforward</Script>
     <ScriptDesc />
 	<BehaviourList>
-      <Behaviour Min="2" Dice="6" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="2" Dice="6" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
       <Behaviour Min="5" Dice="6" Type="Atk" Detail="Hit" Motion="Z" MotionDefault="N" EffectRes="Tanya_Z" Script="seraph_erosion_kickback_1" ActionScript="" Desc="" />
 	  <Behaviour Min="3" Dice="5" Type="Atk" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="WarpCrew_J" Script="seraph_erosion_kickback_1" ActionScript="" Desc="" />
 	  <Behaviour Min="2" Dice="4" Type="Atk" Detail="Slash" Motion="H" MotionDefault="N" EffectRes="Tanya_H" Script="seraph_erosion_kickback2" ActionScript="" Desc="" />
@@ -473,7 +474,7 @@
     <Script>seraph_willpower</Script>
     <ScriptDesc />
 	<BehaviourList>
-	  <Behaviour Min="7" Dice="14" Type="Def" Detail="Evasion" Motion="Z" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="" Desc="" />
+	  <Behaviour Min="7" Dice="14" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
 	  <Behaviour Min="5" Dice="7" Type="Atk" Detail="Hit" Motion="J" MotionDefault="N" EffectRes="Bayyard_J" Script="drawCard1atk" ActionScript="" Desc="" />
 	  <Behaviour Min="3" Dice="8" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Bayyard_Z" Script="" ActionScript="" Desc="" />
     </BehaviourList>
@@ -489,7 +490,7 @@
     <Script></Script>
     <ScriptDesc />
 	<BehaviourList>
-	  <Behaviour Min="7" Dice="10" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="ch2_E" Script="" ActionScript="seraph_powerDown3targetAtk" Desc="" />
+	  <Behaviour Min="7" Dice="10" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="seraph_powerDown3targetAtk" Desc="" />
 	  <Behaviour Min="3" Dice="5" Type="Def" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="ch2_G" Script="" ActionScript="" Desc="" />
 	  <Behaviour Min="4" Dice="8" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="Bayyard_Z" Script="weak2atk" ActionScript="" Desc="" />
     </BehaviourList>

@@ -73,12 +73,12 @@
       <AddedStartDraw>0</AddedStartDraw>
       <Passive Pid="@origin">10001</Passive>
       <Passive>5</Passive>
+	  <Passive>15</Passive>
 	  <Passive>7</Passive>
-	  <Passive>8</Passive>
 	  <OnlyCard>2</OnlyCard>
 	  <OnlyCard>14</OnlyCard>
     </EquipEffect>
-    <Rarity>Rare</Rarity>
+    <Rarity>Unique</Rarity>
     <CharacterSkin>LinusKeyPage</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>
@@ -119,7 +119,7 @@
 	  <Passive>11</Passive>
 	  <OnlyCard>2</OnlyCard>
     </EquipEffect>
-    <Rarity>Rare</Rarity>
+    <Rarity>Unique</Rarity>
     <CharacterSkin>SheireKeyPage</CharacterSkin>
     <CharacterSkinType>Custom</CharacterSkinType>
     <SkinGender>N</SkinGender>

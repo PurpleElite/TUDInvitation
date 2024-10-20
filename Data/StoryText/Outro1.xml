@@ -1,32 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version="1.0"?>
+<ScenarioRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Chapter ID="-1">
     <Title />
   </Chapter>
   <Group>
     <GroupName>group</GroupName>
     <Episode>
-      <EpisodeName>Episode</EpisodeName>
+      <EpisodeName>SeraphRunaways</EpisodeName>
       <Place>
         <PlaceName>The Library</PlaceName>
         <Dialog ID="0" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
+          <VoiceFile>Outro1_0_Linus</VoiceFile>
           <Content>Huff... Huff... Huff...</Content>
         </Dialog>
         <Dialog ID="1" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>!!!</Content>
+          <VoiceFile>Outro1_1_Linus</VoiceFile>
+          <Content>Gh-!</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
+          <VoiceFile>Outro1_2_Roland</VoiceFile>
           <Content>Not so fast, kid. You're not the first to try making a run for it.</Content>
         </Dialog>
         <Dialog ID="3" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
+          <VoiceFile>Outro1_3_Linus</VoiceFile>
           <Content>You-! You killed them!!</Content>
         </Dialog>
       </Place>
@@ -35,6 +39,7 @@
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
+          <VoiceFile>Outro1_4_Roland</VoiceFile>
           <Content>Sorry about that. Just doing my job, you know?</Content>
         </Dialog>
       </Place>
@@ -43,7 +48,8 @@
         <Dialog ID="5" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
-          <Content>Gh-! Haah..!</Content>
+          <VoiceFile>Outro1_5_Linus</VoiceFile>
+          <Content>Ngh-! Haah..!</Content>
         </Dialog>
       </Place>
       <Place>
@@ -51,6 +57,7 @@
         <Dialog ID="6" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
+          <VoiceFile>Outro1_6_Linus</VoiceFile>
           <Content>S-Stay back!</Content>
         </Dialog>
       </Place>
@@ -59,16 +66,19 @@
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
+          <VoiceFile>Outro1_7_Roland</VoiceFile>
           <Content>Hm? What's that sword of yours doing...?</Content>
         </Dialog>
         <Dialog ID="8" Model="Linus">
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
+          <VoiceFile>Outro1_8_Linus</VoiceFile>
           <Content>Come on... Come on...</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
+          <VoiceFile>Outro1_9_Roland</VoiceFile>
           <Content>Oh no you don't!</Content>
         </Dialog>
       </Place>
@@ -77,6 +87,7 @@
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
+          <VoiceFile>Outro1_10_Roland</VoiceFile>
           <Content>Whew... managed to actually stop one of them from running for once. Was worried we'd have another Philip on our hands.</Content>
         </Dialog>
       </Place>
@@ -85,11 +96,13 @@
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Good thing I managed to stop him before he finished doing whatever it was he was trying to do with that sword of his yeah?</Content>
+          <VoiceFile>Outro1_11_Roland</VoiceFile>
+          <Content>Good thing I managed to stop him before he finished doing whatever it was he was trying to do with that weird sword of his yeah?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
+          <VoiceFile>Outro1_12_Angela</VoiceFile>
           <Content>Hm.</Content>
         </Dialog>
       </Place>
@@ -98,6 +111,7 @@
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
+          <VoiceFile>Outro1_13_Roland</VoiceFile>
           <Content>I... did stop him, right?</Content>
         </Dialog>
       </Place>
@@ -106,6 +120,7 @@
         <Dialog ID="14" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
+          <VoiceFile>Outro1_14_Angela</VoiceFile>
           <Content>It would seem the entire world outside the Library has been rewound by several minutes.</Content>
         </Dialog>
       </Place>
@@ -114,6 +129,7 @@
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
+          <VoiceFile>Outro1_15_Roland</VoiceFile>
           <Content>...You're shitting me.</Content>
         </Dialog>
       </Place>
@@ -122,22 +138,32 @@
         <Dialog ID="16" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
+          <VoiceFile>Outro1_16_Angela</VoiceFile>
           <Content>No, I am not "shitting" you, Roland.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>sigh... Does that mean they're going to come here again? I could really use a break.</Content>
+          <VoiceFile>Outro1_17_Roland</VoiceFile>
+          <Content>sigh... So, what? Did it rewind to before they came here? Are they about to show up again? I swear if we're stuck in some kind of time loop now...</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Directory</Title>
+          <VoiceFile>Outro1_18_Angela</VoiceFile>
           <Content>I... am not certain. We will have to wait and see what happens. In the meantime, I'm going to take a look in their books.</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>...The ability to turn back time, huh?</Content>
+          <VoiceFile>Outro1_19_Roland</VoiceFile>
+          <Content>Seeya, Angela.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <VoiceFile>Outro1_20_Roland</VoiceFile>
+          <Content>...The ability to turn back time, huh? I wonder...</Content>
         </Dialog>
       </Place>
     </Episode>

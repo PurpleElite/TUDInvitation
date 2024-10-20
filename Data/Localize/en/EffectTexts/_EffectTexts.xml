@@ -7,7 +7,7 @@
     </BattleEffectText>
 	<BattleEffectText ID="SeraphRunaways_UnstableEntropy">
       <Name>Unstable Entropy</Name>
-      <Desc>Gain Haste equal to stacks of Erosion. At the start of the scene all stacks of Erosion over 3 are also infliced on allies.</Desc>
+      <Desc>Gain Haste equal to stacks of Erosion. When this status expires all stacks of Erosion are removed.</Desc>
     </BattleEffectText>
   </effectTextList>
 </BattleEffectTextRoot>
