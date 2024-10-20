@@ -229,7 +229,7 @@
         <Dialog ID="43" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>No no not just a library, THE Library. It became a Star of the City lately, everyone's been talking about it. You really don't pay any attention to local gossip, huh?</Content>
+          <Content>No no not just a library, THE Library. It became a Star of the City lately, everyone's been talking about it. You really don't pay any attention to local gossip, do you?</Content>
         </Dialog>
         <Dialog ID="44" Model="Linus">
           <Teller>Linus</Teller>
@@ -249,7 +249,7 @@
         <Dialog ID="47" Model="Sheire">
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
-          <Content>If there's anywhere that would have what he needs to figure that sword out it'd be there right?</Content>
+          <Content>If there's anywhere that has what he needs to figure that sword out it's there right?</Content>
         </Dialog>
         <Dialog ID="48" Model="Linus">
           <Teller>Linus</Teller>

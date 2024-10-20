@@ -18,7 +18,7 @@
       <Book Pid="@origin">250006</Book>
     </Invitation>
     <Condition>
-      <Stage>50003</Stage>
+      <Stage>50004</Stage>
     </Condition>
 	<StoryType>SeraphRunaways</StoryType>
     <Story Condition="Start">Intro1.xml</Story>

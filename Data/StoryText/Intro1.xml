@@ -30,7 +30,7 @@
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
           <VoiceFile>Intro1_3_Linus</VoiceFile>
-          <Content>And what if they find us while she's away? She's our lifeline in this city, without her protection we're good as dead.</Content>
+          <Content>And what if they find us while she's away? She's our lifeline in this city, without her protection we're as good as dead.</Content>
         </Dialog>
         <Dialog ID="4" Model="Sheire">
           <Teller>Sheire</Teller>
@@ -185,7 +185,7 @@
           <Teller>Linus</Teller>
           <Title>Fugitive</Title>
           <VoiceFile>Intro1_29_Linus</VoiceFile>
-          <Content>No, hardly any. I feel like I've hit a plateau on what I can discern with the tools available.</Content>
+          <Content>No, hardly any. I feel like I've hit a plateau on what I can figure out with the tools we have.</Content>
         </Dialog>
         <Dialog ID="30" Model="Linus">
           <Teller>Linus</Teller>
@@ -269,7 +269,7 @@
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
           <VoiceFile>Intro1_43_Sheire</VoiceFile>
-          <Content>No no not just a library, THE Library. It became a Star of the City lately, everyone's been talking about it. You really don't pay any attention to local gossip, huh?</Content>
+          <Content>No no not just a library, THE Library. It became a Star of the City lately, everyone's been talking about it. You really don't pay any attention to local gossip, do you?</Content>
         </Dialog>
         <Dialog ID="44" Model="Linus">
           <Teller>Linus</Teller>
@@ -293,7 +293,7 @@
           <Teller>Sheire</Teller>
           <Title>Fugitive</Title>
           <VoiceFile>Intro1_47_Sheire</VoiceFile>
-          <Content>If there's anywhere that would have what he needs to figure that sword out it'd be there right?</Content>
+          <Content>If there's anywhere that has what he needs to figure that sword out it's there right?</Content>
         </Dialog>
         <Dialog ID="48" Model="Linus">
           <Teller>Linus</Teller>
@@ -494,7 +494,7 @@
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>Intro1_80_Roland</VoiceFile>
-          <Content>It's bizarre seeing someone wearing full platemail in the City though... and what's up with that girl's feather shawl thing? They look more like cosplayers than anything.</Content>
+          <Content>It's not often you see someone wearing full platemail in the City though... and what's up with that girl's feather shawl thing? They look more like cosplayers than anything.</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -512,7 +512,7 @@
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>Intro1_83_Angela</VoiceFile>
-          <Content>I'm interested in that 'Nymane Key' of theirs. If their pursuers are so intent on retrieving it, then they'll certainly come here looking for it after we've received these guests.</Content>
+          <Content>I'm interested in that 'Nymane Key' of theirs. If their pursuers are so intent on retrieving it, then they'll certainly come here looking for it after we've converted these guests into books.</Content>
         </Dialog>
         <Dialog ID="84" Model="롤랑">
           <Teller>Roland</Teller>
